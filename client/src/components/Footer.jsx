@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <p className="mb-0">© 2025 Hidden Founders Database | Techstars Sydney Build Challenge</p>
+                        <p className="mb-0">© 2026 AI Founders Australia</p>
                     </div>
                     <div className="col-md-6 text-md-end">
                         <a href="/about" className="text-decoration-none text-muted me-3">About</a>

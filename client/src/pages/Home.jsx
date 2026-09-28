@@ -7,8 +7,8 @@ export default function Home() {
                 <div className="row justify-content-center">
                     <div className="col-md-6 text-center">
                         <h1 className="display-4 text-center">Discover Australia's Hidden AI & Tech Founders</h1>
-                        <p className="lead text-center">Start with founders who are technically oriented, early in their current journey, and still below the mainstream visibility threshold.</p>
-                        <p className="mb-4 text-center">The default cohort uses concrete signals: a current AI or technical founder role, fewer than 2,000 LinkedIn followers, and no more than three years in the current role where tenure is known.</p>
+                        <p className="lead text-center">Explore more than 200 strict hidden, emerging, stealth/early, and newly discovered founder candidates across Australia.</p>
+                        <p className="mb-4 text-center">Verified cohorts use follower, tenure, founder-role, AI-product, funding, and stealth signals. Newly sourced profiles are labeled Discovery Candidate until those signals are verified.</p>
                         <div className="d-grid gap-2 d-md-flex justify-content-center">
                             <Link to="/search" className="btn btn-primary btn-lg px-4 me-md-2">Start Searching</Link>
                         </div>
@@ -61,36 +61,36 @@ export default function Home() {
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Hidden Founders</h3>
-                                <p className="small">Low-visibility founders selected using follower count, tenure, and founder-role signals</p>
-                                <Link to="/search?tag=Hidden%20Founder" className="stretched-link" aria-label="Search hidden founders" />
+                                <h3 className="h5">Strict Hidden</h3>
+                                <p className="small">Under 1,000 followers, within two years of the current AI or technical founder role</p>
+                                <Link to="/search?tag=Strict%20Hidden" className="stretched-link" aria-label="Search strict hidden founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">AI Founders</h3>
-                                <p className="small">Current founders whose product identity includes artificial intelligence</p>
-                                <Link to="/search?tag=AI%20Founder" className="stretched-link" aria-label="Search AI founders" />
+                                <h3 className="h5">Emerging Founders</h3>
+                                <p className="small">Under 5,000 followers and within four years of the current founder role</p>
+                                <Link to="/search?tag=Emerging%20Founder" className="stretched-link" aria-label="Search emerging founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Technical Founders</h3>
-                                <p className="small">Current founders classified with a technical founder persona</p>
-                                <Link to="/search?tag=Tech%20Founder" className="stretched-link" aria-label="Search technical founders" />
+                                <h3 className="h5">Stealth / Early</h3>
+                                <p className="small">Stealth, bootstrapped, or within two years of an AI or technical founder role</p>
+                                <Link to="/search?tag=Stealth%2FEarly%20Founder" className="stretched-link" aria-label="Search stealth and early founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">All Founder Profiles</h3>
-                                <p className="small">Broaden the filters to explore the complete processed Australian dataset</p>
-                                <Link to="/search?tag=all" className="stretched-link" aria-label="Search all founders" />
+                                <h3 className="h5">Discovery Candidates</h3>
+                                <p className="small">New Australian AI/tech founder leads awaiting deeper signal verification</p>
+                                <Link to="/search?tag=Discovery%20Candidate" className="stretched-link" aria-label="Search discovery candidates" />
                             </div>
                         </div>
                     </div>

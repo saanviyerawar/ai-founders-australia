@@ -7,6 +7,7 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "linkedin_processed.xlsx"
+DISCOVERED = ROOT / "data" / "discovered_founders.json"
 OUTPUT = ROOT / "client" / "public" / "founders.json"
 
 COLUMN_MAP = {
@@ -137,8 +138,16 @@ def tags_for(profile):
         and profile.get("founder_persona") == "Technical"
     ):
         tags.append("Tech Founder")
-    if profile.get("hidden_founder"):
-        tags.append("Hidden Founder")
+    if profile.get("strict_hidden"):
+        tags.extend(["Hidden Founder", "Strict Hidden"])
+    if profile.get("emerging_founder"):
+        tags.append("Emerging Founder")
+    if profile.get("stealth_early_founder"):
+        tags.append("Stealth/Early Founder")
+    if profile.get("discovery_tier") == "Discovery Candidate":
+        tags.append("Discovery Candidate")
+    if profile.get("ai_or_tech_signal"):
+        tags.append("AI/Tech Candidate")
     return tags
 
 
@@ -154,7 +163,7 @@ def duration_months(value):
     )
 
 
-def add_hidden_signals(profile):
+def add_cohort_signals(profile):
     followers = profile.get("linkedin_follower_count")
     tenure = duration_months(profile.get("time_in_current_role"))
     ai_founder = bool(
@@ -164,24 +173,49 @@ def add_hidden_signals(profile):
         profile.get("is_current_founder")
         and profile.get("founder_persona") == "Technical"
     )
-    hidden = (
+    strict_hidden = (
         (ai_founder or tech_founder)
         and followers is not None
-        and followers < 2000
-        and (tenure is None or tenure <= 36)
+        and followers < 1000
+        and tenure is not None
+        and tenure <= 24
+    )
+    emerging_founder = (
+        (ai_founder or tech_founder)
+        and followers is not None
+        and followers < 5000
+        and tenure is not None
+        and tenure <= 48
+    )
+    funding = str(profile.get("curr_startup_funding_stage", "")).casefold()
+    stealth_early = bool(
+        (ai_founder or tech_founder)
+        and (
+            profile.get("is_stealth")
+            or "bootstrap" in funding
+            or (tenure is not None and tenure <= 24)
+        )
     )
 
-    profile["hidden_founder"] = hidden
-    if hidden:
+    profile["hidden_founder"] = strict_hidden
+    profile["strict_hidden"] = strict_hidden
+    profile["emerging_founder"] = emerging_founder
+    profile["stealth_early_founder"] = stealth_early
+    if strict_hidden:
         profile["hidden_signals"] = [
             f"{followers:,} LinkedIn followers",
-            (
-                f"{profile['time_in_current_role']} in current role"
-                if tenure is not None
-                else "Early visibility signal"
-            ),
+            f"{profile['time_in_current_role']} in current role",
             "AI founder" if ai_founder else "Technical founder",
         ]
+    profile["cohorts"] = [
+        label
+        for condition, label in (
+            (strict_hidden, "Strict Hidden"),
+            (emerging_founder, "Emerging"),
+            (stealth_early, "Stealth/Early"),
+        )
+        if condition
+    ]
 
 
 def normalize(field, value):
@@ -210,10 +244,26 @@ def main():
         }
         if not profile.get("name") or not profile.get("linkedin_url"):
             continue
+        profile["source_type"] = "Processed multi-source dataset"
         profile["id"] = len(profiles) + 1
-        add_hidden_signals(profile)
+        add_cohort_signals(profile)
         profile["tags"] = tags_for(profile)
         profiles.append(profile)
+
+    existing_urls = {profile["linkedin_url"].rstrip("/") for profile in profiles}
+    if DISCOVERED.is_file():
+        discovered = json.loads(DISCOVERED.read_text(encoding="utf-8"))
+        for candidate in discovered:
+            url = str(candidate.get("linkedin_url", "")).rstrip("/")
+            if not candidate.get("name") or not url or url in existing_urls:
+                continue
+            profile = dict(candidate)
+            profile["linkedin_url"] = f"{url}/"
+            profile["id"] = len(profiles) + 1
+            profile["tags"] = tags_for(profile)
+            profile["cohorts"] = ["Discovery Candidate"]
+            profiles.append(profile)
+            existing_urls.add(url)
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(

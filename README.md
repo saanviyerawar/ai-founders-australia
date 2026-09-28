@@ -1,5 +1,8 @@
-# techstars-sydney-build-challenge
-Won 1st place in the Techstars x Buildclub hackathon to find hidden founder talent in Sydney.
+# AI Founders Australia
+
+A searchable map of Australia's hidden, emerging, stealth, and early-stage AI
+and technical founders. The original prototype won first place in the Techstars
+x Build Club Sydney challenge.
 
 View demo here: https://youtu.be/4ms0X2m3uLA
 
@@ -58,14 +61,18 @@ URLs from LinkedIn people search and batch-scrapes up to three new results.
 
 ## Hosted platform
 
+https://saanviyerawar.github.io/ai-founders-australia/
+
 Every push to `main` deploys the searchable processed dataset to GitHub Pages.
 The hosted build does not store LinkedIn credentials or run authenticated
 scraping; use the local workflow above to collect data, update
-`linkedin_processed.xlsx`, and push the refreshed dataset.
+`linkedin_processed.xlsx` or `data/discovered_founders.json`, and push the
+refreshed dataset.
 
-The hosted search defaults to the strict hidden AI/tech cohort: current AI or
-technical founders with fewer than 2,000 LinkedIn followers and no more than
-three years in their current role where tenure is known.
+The platform separates verified **Strict Hidden**, **Emerging**, and
+**Stealth/Early** cohorts from new **Discovery Candidates**. Candidate labels
+are not presented as verified hidden-founder claims until follower, tenure,
+funding, stealth, and founder-role evidence is available.
 
 **1. What technology did you use to build your solution?**
 We used a simple but powerful stack to move fast. The frontend was built with React, Vite.js, HTML, CSS, JavaScript, and Bootstrap for quick styling. For our backend, we use Python and Flask for the server and routing, with a MySQL database hosted on AWS RDS. The app is deployed on an AWS EC2 instance.

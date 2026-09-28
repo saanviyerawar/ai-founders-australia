@@ -3,8 +3,8 @@ export default function AboutPage() {
         <div className="container mt-4">
             <div className="row">
                 <div className="col-12">
-                    <h1>About Hidden Founders</h1>
-                    <p className="lead">Uncovering Australia's next wave of entrepreneurial talent.</p>
+                    <h1>About AI Founders Australia</h1>
+                    <p className="lead">Mapping Australia's emerging AI and technical founder ecosystem.</p>
                 </div>
             </div>
 
@@ -13,11 +13,11 @@ export default function AboutPage() {
                     <div className="card shadow-sm mb-4">
                         <div className="card-body">
                             <h2>Our Mission</h2>
-                            <p>Hidden Founders was created for the Techstars Sydney Build Challenge to identify and map under-the-radar founder talent across Australia. Our mission is to surface high-potential current and future founders who might not be visible through traditional channels.</p>
+                            <p>AI Founders Australia identifies and maps current, emerging, and early-stage AI and technical founders across Australia. Our mission is to make the ecosystem easier to discover while clearly separating verified hidden signals from broader discovery candidates.</p>
                             
                             <p>Some of the best founders are hidden in plain sight. They're not posting on LinkedIn — they're heads down building. They're scale-up veterans whose options are vesting. Migrants building quiet empires. PhD researchers with IP ready to spin out.</p>
                             
-                            <p>Our searchable database helps connect these hidden founders with the resources, mentorship, and investment opportunities they need to succeed.</p>
+                            <p>Our searchable database helps connect founders with the resources, mentorship, collaborators, and investment opportunities they need to succeed.</p>
                             
                             <h2 className="mt-4">How It Works</h2>
                             <p>Our platform aggregates data from multiple sources to create comprehensive founder profiles that include:</p>
@@ -42,7 +42,7 @@ export default function AboutPage() {
                                 <li><strong>Social Media:</strong> Twitter/X profiles, Product Hunt submissions, and GitHub repositories</li>
                             </ul>
                             
-                            <p>All data is collected ethically and in compliance with relevant privacy regulations.</p>
+                            <p>Profiles use public professional and company information. Cohort labels represent the evidence available in the dataset and are not investment recommendations.</p>
                         </div>
                     </div>
                 </div>
@@ -50,10 +50,10 @@ export default function AboutPage() {
                 <div className="col-md-4">
                     <div className="card shadow-sm mb-4">
                         <div className="card-header bg-light">
-                            <h5 className="card-title mb-0">Techstars Sydney Build Challenge</h5>
+                            <h5 className="card-title mb-0">Project Origin</h5>
                         </div>
                         <div className="card-body">
-                            <p>This project was created for the Techstars Sydney Build Challenge, which tasked participants with building a searchable database of under-the-radar founder talent.</p>
+                            <p>The original prototype won the Techstars Sydney Build Challenge and has since evolved into AI Founders Australia.</p>
                             
                             <p><strong>Challenge Period:</strong><br />May 26 - June 5, 2025</p>
                             
@@ -75,10 +75,10 @@ export default function AboutPage() {
                             <h5 className="card-title mb-0">Contact Us</h5>
                         </div>
                         <div className="card-body">
-                            <p>Have questions about the Hidden Founders database or want to suggest improvements?</p>
+                            <p>Have questions about AI Founders Australia or want to suggest an update?</p>
                             
                             <p>
-                                <i className="bi bi-github"></i> <a href="https://github.com/michelle-lieng/techstars-sydney-build-challenge" target="_blank">GitHub Repository</a>
+                                <i className="bi bi-github"></i> <a href="https://github.com/saanviyerawar/ai-founders-australia" target="_blank" rel="noreferrer">GitHub Repository</a>
                             </p>
                         </div>
                     </div>

@@ -5,7 +5,7 @@ export default function Header() {
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container">
                 <NavLink className="navbar-brand" to="/">
-                    <i className="bi bi-people-fill me-2"></i>Hidden Founders
+                    <i className="bi bi-people-fill me-2"></i>AI Founders Australia
                 </NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span className="navbar-toggler-icon"></span>

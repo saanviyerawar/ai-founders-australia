@@ -37,7 +37,7 @@ export default function Search() {
     const [tagsFilter, setTagsFilter] = useState(() => {
         if (requestedTag === 'all') return [];
         if (requestedTag) return [requestedTag];
-        return supportsLiveCollection ? [] : ['Hidden Founder'];
+        return supportsLiveCollection ? [] : ['Discovery Candidate'];
     });
     const [currentPage, setCurrentPage] = useState(1);
     const [industryFilter, setIndustryFilter] = useState('');
@@ -182,8 +182,8 @@ export default function Search() {
             <div className="container mt-4">
                 <div className="row">
                     <div className="col-12">
-                        <h1>Search Hidden Founders</h1>
-                        <p className="lead">Start with evidence-backed hidden AI and technical founders, then refine the full Australian dataset.</p>
+                        <h1>Search AI Founders Australia</h1>
+                        <p className="lead">Explore strict hidden, emerging, stealth/early, and newly discovered Australian AI and technical founders.</p>
                     </div>
                 </div>
 
@@ -331,8 +331,7 @@ export default function Search() {
                         </div>
                         ) : (
                         <div className="alert alert-info shadow-sm" role="status">
-                            Showing hidden AI and technical founders by default. Use the filters to explore all 75 processed profiles.
-                            Authenticated LinkedIn discovery remains available in local mode.
+                            Showing newly discovered AI/tech founder candidates by default. Use the cohort filters to switch to verified strict hidden, emerging, or stealth/early profiles.
                         </div>
                         )}
 

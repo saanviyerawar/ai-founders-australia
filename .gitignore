@@ -185,6 +185,9 @@ client/node_modules/
 .venv
 __pycache__
 data
+!data/
+data/*
+!data/discovered_founders.json
 table_view.html
 .env
 

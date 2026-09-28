@@ -38,7 +38,7 @@ jobs:
       - run: npm run build
         env:
           VITE_STATIC_DATA: "true"
-          VITE_BASE_PATH: /techstars-sydney-build-challenge/
+          VITE_BASE_PATH: /ai-founders-australia/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

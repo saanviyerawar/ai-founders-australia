@@ -4,6 +4,11 @@ import { Link } from 'react-router-dom';
 export default function FounderCard({ founder }) {
   const badgeClass = (tag) => {
     if (tag === 'Hidden Founder') return 'bg-warning text-dark';
+    if (tag === 'Strict Hidden') return 'bg-danger';
+    if (tag === 'Emerging Founder') return 'bg-success';
+    if (tag === 'Stealth/Early Founder') return 'bg-dark';
+    if (tag === 'Discovery Candidate') return 'bg-light text-dark border';
+    if (tag === 'AI/Tech Candidate') return 'bg-info text-dark';
     if (tag === 'AI Founder') return 'bg-primary';
     if (tag === 'Tech Founder') return 'bg-info text-dark';
     return 'bg-secondary';
