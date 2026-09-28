@@ -2,6 +2,13 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 export default function FounderCard({ founder }) {
+  const badgeClass = (tag) => {
+    if (tag === 'Hidden Founder') return 'bg-warning text-dark';
+    if (tag === 'AI Founder') return 'bg-primary';
+    if (tag === 'Tech Founder') return 'bg-info text-dark';
+    return 'bg-secondary';
+  };
+
   return (
     <div className="col-md-6 mb-4">
       <div className="card h-100 founder-card">
@@ -21,9 +28,14 @@ export default function FounderCard({ founder }) {
           </p>
           <div className="founder-tags mb-3">
             {founder.tags && founder.tags.map((tag, index) => (
-              <span key={index} className="badge bg-secondary me-1">{tag}</span>
+              <span key={index} className={`badge ${badgeClass(tag)} me-1 mb-1`}>{tag}</span>
             ))}
           </div>
+          {founder.hidden_signals?.length > 0 && (
+            <p className="small text-muted mb-3">
+              <strong>Hidden signals:</strong> {founder.hidden_signals.join(' · ')}
+            </p>
+          )}
           <div className="diversity-badges mb-3">
             {founder.diversity && founder.diversity.map((badge, index) => (
               <span key={index} className="badge bg-info me-1">{badge}</span>

@@ -6,9 +6,9 @@ export default function Home() {
             <div className="container mt-5 align-items-center justify-content-center">
                 <div className="row justify-content-center">
                     <div className="col-md-6 text-center">
-                        <h1 className="display-4 text-center">Discover Australia's Hidden Founders</h1>
-                        <p className="lead text-center">Find and connect with high-potential current and future founders across Australia.</p>
-                        <p className="mb-4 text-center">Our searchable database helps you discover diverse talent that's building the next wave of innovation - from scale-up veterans to PhD researchers with IP ready to spin out.</p>
+                        <h1 className="display-4 text-center">Discover Australia's Hidden AI & Tech Founders</h1>
+                        <p className="lead text-center">Start with founders who are technically oriented, early in their current journey, and still below the mainstream visibility threshold.</p>
+                        <p className="mb-4 text-center">The default cohort uses concrete signals: a current AI or technical founder role, fewer than 2,000 LinkedIn followers, and no more than three years in the current role where tenure is known.</p>
                         <div className="d-grid gap-2 d-md-flex justify-content-center">
                             <Link to="/search" className="btn btn-primary btn-lg px-4 me-md-2">Start Searching</Link>
                         </div>
@@ -56,41 +56,41 @@ export default function Home() {
 
                 <div className="row mt-5">
                     <div className="col-12">
-                        <h2 className="text-center mb-4">Featured Founder Categories</h2>
+                        <h2 className="text-center mb-4">Explore Founder Signals</h2>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Scale-up Alumni</h3>
-                                <p className="small">Experienced professionals from Australia's fastest-growing companies</p>
-                                <Link to="/search" className="stretched-link" aria-label="Search scale-up alumni" />
+                                <h3 className="h5">Hidden Founders</h3>
+                                <p className="small">Low-visibility founders selected using follower count, tenure, and founder-role signals</p>
+                                <Link to="/search?tag=Hidden%20Founder" className="stretched-link" aria-label="Search hidden founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">PhD Researchers</h3>
-                                <p className="small">Academic innovators with IP ready for commercialization</p>
-                                <Link to="/search" className="stretched-link" aria-label="Search PhD researchers" />
+                                <h3 className="h5">AI Founders</h3>
+                                <p className="small">Current founders whose product identity includes artificial intelligence</p>
+                                <Link to="/search?tag=AI%20Founder" className="stretched-link" aria-label="Search AI founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Side Project Builders</h3>
-                                <p className="small">Creators developing innovative products while employed</p>
-                                <Link to="/search" className="stretched-link" aria-label="Search side project builders" />
+                                <h3 className="h5">Technical Founders</h3>
+                                <p className="small">Current founders classified with a technical founder persona</p>
+                                <Link to="/search?tag=Tech%20Founder" className="stretched-link" aria-label="Search technical founders" />
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Migrant Founders</h3>
-                                <p className="small">International entrepreneurs building in Australia</p>
-                                <Link to="/search" className="stretched-link" aria-label="Search migrant founders" />
+                                <h3 className="h5">All Founder Profiles</h3>
+                                <p className="small">Broaden the filters to explore the complete processed Australian dataset</p>
+                                <Link to="/search?tag=all" className="stretched-link" aria-label="Search all founders" />
                             </div>
                         </div>
                     </div>

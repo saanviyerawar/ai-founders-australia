@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react'
+import { useSearchParams } from 'react-router-dom';
 import FounderCard  from '../components/FounderCard';
 import GenderDropdown from '../components/GenderDropdown';
 import IndustryTagsDropdown from '../components/IndustryDropdown';
@@ -22,6 +23,8 @@ import {
  } from '../../utils/helper';
 
 export default function Search() {
+    const [searchParams] = useSearchParams();
+    const requestedTag = searchParams.get('tag');
     const [founders, setFounders] = useState([]);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -31,7 +34,11 @@ export default function Search() {
     const [ highestDegreeFilter, setHighestDegreeFilter] = useState('');
     const [genderFilter, setGenderFilter] = useState('');
     const [migrantFilter, setMigrantFilter] = useState('');
-    const [tagsFilter, setTagsFilter] = useState([]);
+    const [tagsFilter, setTagsFilter] = useState(() => {
+        if (requestedTag === 'all') return [];
+        if (requestedTag) return [requestedTag];
+        return supportsLiveCollection ? [] : ['Hidden Founder'];
+    });
     const [currentPage, setCurrentPage] = useState(1);
     const [industryFilter, setIndustryFilter] = useState('');
     const [fundingFilter, setFundingFilter] = useState('');
@@ -176,13 +183,12 @@ export default function Search() {
                 <div className="row">
                     <div className="col-12">
                         <h1>Search Hidden Founders</h1>
-                        <p className="lead">Find high-potential founders across Australia using advanced filters.</p>
+                        <p className="lead">Start with evidence-backed hidden AI and technical founders, then refine the full Australian dataset.</p>
                     </div>
                 </div>
 
                 <div className="row mt-3">
                     <div className="col-md-3">
-                        {supportsLiveCollection ? (
                         <div className="card shadow-sm mb-4">
                             <div className="card-header bg-light">
                                 <h5 className="card-title mb-0">Filters</h5>
@@ -269,15 +275,10 @@ export default function Search() {
                                 </form>
                             </div>
                         </div>
-                        ) : (
-                        <div className="alert alert-info shadow-sm" role="status">
-                            This hosted edition contains the processed founder dataset.
-                            Authenticated LinkedIn discovery is available when running the project locally.
-                        </div>
-                        )}
                     </div>
                     
                     <div className="col-md-9">
+                        {supportsLiveCollection ? (
                         <div className="card shadow-sm mb-4">
                             <div className="card-body">
                                 <h5 className="card-title">Discover founders automatically</h5>
@@ -328,6 +329,12 @@ export default function Search() {
                                 )}
                             </div>
                         </div>
+                        ) : (
+                        <div className="alert alert-info shadow-sm" role="status">
+                            Showing hidden AI and technical founders by default. Use the filters to explore all 75 processed profiles.
+                            Authenticated LinkedIn discovery remains available in local mode.
+                        </div>
+                        )}
 
                         <div className="card shadow-sm mb-4">
                             <div className="card-header bg-light d-flex justify-content-between align-items-center">

@@ -63,6 +63,10 @@ The hosted build does not store LinkedIn credentials or run authenticated
 scraping; use the local workflow above to collect data, update
 `linkedin_processed.xlsx`, and push the refreshed dataset.
 
+The hosted search defaults to the strict hidden AI/tech cohort: current AI or
+technical founders with fewer than 2,000 LinkedIn followers and no more than
+three years in their current role where tenure is known.
+
 **1. What technology did you use to build your solution?**
 We used a simple but powerful stack to move fast. The frontend was built with React, Vite.js, HTML, CSS, JavaScript, and Bootstrap for quick styling. For our backend, we use Python and Flask for the server and routing, with a MySQL database hosted on AWS RDS. The app is deployed on an AWS EC2 instance.
 

@@ -1,4 +1,7 @@
 export const tags = [
+    "Hidden Founder",
+    "AI Founder",
+    "Tech Founder",
     "Current Founder",
     "Previous Founder",
     "AI Startup",

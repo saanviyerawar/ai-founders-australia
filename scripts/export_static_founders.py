@@ -1,5 +1,6 @@
 import ast
 import json
+import re
 from pathlib import Path
 
 import pandas as pd
@@ -91,7 +92,9 @@ def is_blank(value):
 
 
 def parse_bool(value):
-    return int(str(value).strip().casefold() in {"true", "1", "yes", "y"})
+    if isinstance(value, (int, float)):
+        return int(value != 0)
+    return int(str(value).strip().casefold() in {"true", "1", "1.0", "yes", "y"})
 
 
 def parse_list(value):
@@ -127,7 +130,58 @@ def tags_for(profile):
         tags.append("Currently Unemployed")
     if profile.get("top_degree_label"):
         tags.append(profile["top_degree_label"])
+    if profile.get("is_current_founder") and profile.get("ai_in_curr_startup"):
+        tags.append("AI Founder")
+    if (
+        profile.get("is_current_founder")
+        and profile.get("founder_persona") == "Technical"
+    ):
+        tags.append("Tech Founder")
+    if profile.get("hidden_founder"):
+        tags.append("Hidden Founder")
     return tags
+
+
+def duration_months(value):
+    if not value:
+        return None
+    years = re.search(r"(\d+)\s*years?", str(value), re.IGNORECASE)
+    months = re.search(r"(\d+)\s*months?", str(value), re.IGNORECASE)
+    if not years and not months:
+        return None
+    return (int(years.group(1)) * 12 if years else 0) + (
+        int(months.group(1)) if months else 0
+    )
+
+
+def add_hidden_signals(profile):
+    followers = profile.get("linkedin_follower_count")
+    tenure = duration_months(profile.get("time_in_current_role"))
+    ai_founder = bool(
+        profile.get("is_current_founder") and profile.get("ai_in_curr_startup")
+    )
+    tech_founder = bool(
+        profile.get("is_current_founder")
+        and profile.get("founder_persona") == "Technical"
+    )
+    hidden = (
+        (ai_founder or tech_founder)
+        and followers is not None
+        and followers < 2000
+        and (tenure is None or tenure <= 36)
+    )
+
+    profile["hidden_founder"] = hidden
+    if hidden:
+        profile["hidden_signals"] = [
+            f"{followers:,} LinkedIn followers",
+            (
+                f"{profile['time_in_current_role']} in current role"
+                if tenure is not None
+                else "Early visibility signal"
+            ),
+            "AI founder" if ai_founder else "Technical founder",
+        ]
 
 
 def normalize(field, value):
@@ -157,6 +211,7 @@ def main():
         if not profile.get("name") or not profile.get("linkedin_url"):
             continue
         profile["id"] = len(profiles) + 1
+        add_hidden_signals(profile)
         profile["tags"] = tags_for(profile)
         profiles.append(profile)
 
