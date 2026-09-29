@@ -1,10 +1,7 @@
 # AI Founders Australia
 
 A searchable map of Australia's hidden, emerging, stealth, and early-stage AI
-and technical founders. The original prototype won first place in the Techstars
-x Build Club Sydney challenge.
-
-View demo here: https://youtu.be/4ms0X2m3uLA
+and technical founders.
 
 ## Collect real profile data with Selenium
 

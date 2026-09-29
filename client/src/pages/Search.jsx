@@ -3,7 +3,6 @@ import { useSearchParams } from 'react-router-dom';
 import FounderCard  from '../components/FounderCard';
 import GenderDropdown from '../components/GenderDropdown';
 import IndustryTagsDropdown from '../components/IndustryDropdown';
-import PersonaTagsDropdown from '../components/PersonaDropdown';
 import FundingTagsDropdown from '../components/FundingDropdown';
 import TagsDropdown from '../components/Tags';
 import MigrantDropdown from '../components/Migrant';
@@ -42,7 +41,6 @@ export default function Search() {
     const [currentPage, setCurrentPage] = useState(1);
     const [industryFilter, setIndustryFilter] = useState('');
     const [fundingFilter, setFundingFilter] = useState('');
-    const [personaFilter, setPersonaFilter] = useState('');
     const [sortBy, setSortBy] = useState('name');
     const [profileUrl, setProfileUrl] = useState('');
     const [scraping, setScraping] = useState(false);
@@ -79,7 +77,6 @@ export default function Search() {
         setMigrantFilter('');
         setTagsFilter([]);
         setIndustryFilter('');
-        setPersonaFilter('');
         setFundingFilter('');
         setHighestDegreeFilter('');
     };
@@ -148,7 +145,6 @@ export default function Search() {
             startup: startupFilter,
             gender: genderFilter,
             migrant: migrantFilter,
-            founder_persona: personaFilter,
             curr_startup_industry: industryFilter,
             curr_startup_funding_stage: fundingFilter,
             tags: tagsFilter,
@@ -163,7 +159,7 @@ export default function Search() {
             setError(error);
             setLoading(false);
         });
-    }, [nameFilter, cityFilter, startupFilter, genderFilter, migrantFilter, tagsFilter, personaFilter, industryFilter, fundingFilter]);
+    }, [nameFilter, cityFilter, startupFilter, genderFilter, migrantFilter, tagsFilter, industryFilter, fundingFilter]);
 
     useEffect(() => {
     if (!loading && founders.length > 0) {
@@ -196,53 +192,31 @@ export default function Search() {
                             <div className="card-body">
                                 <form id="search-form" onSubmit={(e) => e.preventDefault()}>
 
-                                    <h6 className="mb-3">Founder Filters</h6>
+                                    <h6 className="mb-3">Founder Discovery</h6>
 
                                     <div className="mb-3">
-                                        <label htmlFor="search-name" className="form-label">Name</label>
-                                        <input type="text" className="form-control" id="search-name" placeholder="Enter name" value={nameFilter} onChange={(e) => setNameFilter(e.target.value)}/>
-                                    </div>
-                                    
-                                    <div className="mb-3">
-                                        <label htmlFor="search-city" className="form-label">City</label>
-                                        <input type='text' className="form-control" id="search-city" placeholder="Enter city" value={cityFilter} onChange={(e) => setCityFilter(e.target.value)}>
-                                        </input>
-                                    </div>
-
-                                    <PersonaTagsDropdown
-                                        value={personaFilter}
-                                        onChange={setPersonaFilter}
-                                    />
-
-                                    <div className="mb-3">
-                                        <label htmlFor="search-degree" className="form-label">Highest Level Degree</label>
-                                        <HighestDegree 
-                                            value={highestDegreeFilter}
-                                            onChange={setHighestDegreeFilter}    
-                                        />
-                                    </div>  
-                                    
-                                    <div className="mb-3">
-                                        <label className="form-label">Tags</label>
+                                        <label className="form-label">Cohorts and Signals</label>
                                         <TagsDropdown
                                             value={tagsFilter}
                                             onChange={setTagsFilter}
                                         />
                                     </div>
 
-                                    <hr/>
-
-                                    <h6 className="mb-3">Current Startup Filters</h6>
-
                                     <div className="mb-3">
-                                        <label htmlFor="search-startup" className="form-label">Startup Name</label>
-                                        <input type="text" className="form-control" id="search-startup" placeholder="Enter startup name" value={startupFilter} onChange={(e) => setStartupFilter(e.target.value)}/>
+                                        <label htmlFor="search-city" className="form-label">City</label>
+                                        <input type='text' className="form-control" id="search-city" placeholder="Enter city" value={cityFilter} onChange={(e) => setCityFilter(e.target.value)}>
+                                        </input>
                                     </div>
 
                                     <IndustryTagsDropdown
                                         value={industryFilter}
                                         onChange={setIndustryFilter}
                                     />
+
+                                    <div className="mb-3">
+                                        <label htmlFor="search-startup" className="form-label">Startup Name</label>
+                                        <input type="text" className="form-control" id="search-startup" placeholder="Enter startup name" value={startupFilter} onChange={(e) => setStartupFilter(e.target.value)}/>
+                                    </div>
 
                                     <FundingTagsDropdown
                                         value={fundingFilter}
@@ -251,8 +225,13 @@ export default function Search() {
 
                                     <hr/>
 
-                                    <h6 className="mb-3">Diversity Filters</h6>
-                                    
+                                    <h6 className="mb-3">Founder Details</h6>
+
+                                    <div className="mb-3">
+                                        <label htmlFor="search-name" className="form-label">Name</label>
+                                        <input type="text" className="form-control" id="search-name" placeholder="Enter name" value={nameFilter} onChange={(e) => setNameFilter(e.target.value)}/>
+                                    </div>
+
                                     <GenderDropdown
                                         value={genderFilter}
                                         onChange={setGenderFilter}
@@ -264,7 +243,15 @@ export default function Search() {
                                             value={migrantFilter}
                                             onChange={setMigrantFilter}    
                                         />
-                                    </div>                                   
+                                    </div>
+
+                                    <div className="mb-3">
+                                        <label htmlFor="search-degree" className="form-label">Highest Level Degree</label>
+                                        <HighestDegree
+                                            value={highestDegreeFilter}
+                                            onChange={setHighestDegreeFilter}
+                                        />
+                                    </div>
                                     
                                     <div className="d-grid">
                                         <button type="submit" className="btn btn-primary">Apply Filters</button>
