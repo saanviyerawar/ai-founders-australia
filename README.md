@@ -74,7 +74,7 @@ The platform separates verified **Strict Hidden**, **Emerging**, and
 are not presented as verified hidden-founder claims until follower, tenure,
 funding, stealth, and founder-role evidence is available.
 
-The current hosted dataset contains 520 profiles. It defaults to public-headline
+The current hosted dataset contains over 1,000 profiles. It defaults to public-headline
 verified **Stealth Candidates**; broader discovery records remain clearly
 labeled until deeper visibility signals are verified.
 
