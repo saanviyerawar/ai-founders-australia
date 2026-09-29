@@ -115,8 +115,8 @@ def tags_for(profile):
     rules = (
         ("is_current_founder", "Current Founder"),
         ("was_prev_founder", "Previous Founder"),
-        ("ai_in_curr_startup", "AI Startup"),
-        ("was_in_accelerator", "Accelerator Participant"),
+        ("ai_in_curr_startup", "AI Product"),
+        ("was_in_accelerator", "Accelerator Alumni"),
         ("was_in_scaleup", "Scaleup Alumni"),
         ("was_in_bigtech", "Worked in Big Tech"),
         ("migrant", "Migrant"),
@@ -137,13 +137,13 @@ def tags_for(profile):
         profile.get("is_current_founder")
         and profile.get("founder_persona") == "Technical"
     ):
-        tags.append("Tech Founder")
+        tags.append("Technical Founder")
     if profile.get("strict_hidden"):
         tags.extend(["Hidden Founder", "Strict Hidden"])
     if profile.get("emerging_founder"):
         tags.append("Emerging Founder")
     if profile.get("stealth_early_founder"):
-        tags.append("Stealth/Early Founder")
+        tags.append("Verified Stealth / Early")
     if profile.get("discovery_tier") == "Discovery Candidate":
         tags.append("Discovery Candidate")
     if profile.get("discovery_tier") == "Stealth Candidate":

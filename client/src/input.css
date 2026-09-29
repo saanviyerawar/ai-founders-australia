@@ -38,6 +38,66 @@ body {
     transform: translateY(-5px);
 }
 
+.tag-badge {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.65rem;
+    padding: 0.25rem 0.55rem;
+    border: 1px solid transparent;
+    border-radius: 999px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.tag-badge-strict {
+    background: #fee2e2;
+    color: #991b1b;
+    border-color: #fecaca;
+}
+
+.tag-badge-emerging {
+    background: #dcfce7;
+    color: #166534;
+    border-color: #bbf7d0;
+}
+
+.tag-badge-stealth {
+    background: #e5e7eb;
+    color: #111827;
+    border-color: #cbd5e1;
+}
+
+.tag-badge-stealth-candidate {
+    background: #312e81;
+    color: #fff;
+}
+
+.tag-badge-discovery {
+    background: #fff;
+    color: #475569;
+    border-color: #cbd5e1;
+}
+
+.tag-badge-ai {
+    background: #dbeafe;
+    color: #1e40af;
+    border-color: #bfdbfe;
+}
+
+.tag-badge-technical,
+.tag-badge-candidate {
+    background: #cffafe;
+    color: #155e75;
+    border-color: #a5f3fc;
+}
+
+.tag-badge-default {
+    background: #f1f5f9;
+    color: #475569;
+    border-color: #e2e8f0;
+}
+
 /* Profile image placeholder */
 .profile-image-placeholder {
     width: 100px;
@@ -77,17 +137,154 @@ body {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
 }
 
-/* Tags container with scrolling for many tags */
-.tags-container {
-    max-height: 200px;
-    overflow-y: auto;
-    padding-right: 5px;
+/* Grouped tag filters */
+.tag-filter {
+    display: grid;
+    gap: 1rem;
+}
+
+.tag-filter-summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.55rem 0.7rem;
+    border-radius: 0.5rem;
+    background: #eef4ff;
+    color: #315a9f;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.tag-filter-group {
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.tag-filter-group legend {
+    float: none;
+    width: auto;
+    margin: 0 0 0.15rem;
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #243b64;
+}
+
+.tag-filter-group p {
+    margin-bottom: 0.5rem;
+    color: #6c757d;
+    font-size: 0.72rem;
+    line-height: 1.35;
+}
+
+.tag-filter-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+}
+
+.tag-filter-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    min-height: 2rem;
+    padding: 0.35rem 0.65rem;
+    border: 1px solid #d7deea;
+    border-radius: 999px;
+    background: #fff;
+    color: #4b5563;
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.15;
+    text-align: left;
+    transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.tag-filter-pill:hover {
+    border-color: #86a9e8;
+    background: #f4f7fd;
+}
+
+.tag-filter-pill.is-selected {
+    border-color: #0d6efd;
+    background: #0d6efd;
+    color: #fff;
+}
+
+/* Compact pagination */
+.pagination-shell {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    max-width: 100%;
+}
+
+.pagination-summary {
+    color: #6c757d;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.pagination-compact {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.25rem;
+}
+
+.pagination-compact .page-item {
+    margin: 0;
+}
+
+.pagination-compact .page-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
+    min-width: 2.35rem;
+    min-height: 2.35rem;
+    padding: 0.4rem 0.65rem;
+    border: 1px solid #dce2ea;
+    border-radius: 0.5rem !important;
+    color: #315a9f;
+    font-weight: 600;
+}
+
+.pagination-compact .page-item.active .page-link {
+    border-color: #0d6efd;
+    background: #0d6efd;
+    color: #fff;
+}
+
+.pagination-ellipsis {
+    min-width: 1.75rem !important;
+    border-color: transparent !important;
+    background: transparent !important;
+}
+
+.pagination-direction {
+    min-width: 5.5rem !important;
 }
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .display-4 {
         font-size: 2.5rem;
+    }
+
+    .pagination-direction {
+        min-width: 2.35rem !important;
+    }
+
+    .pagination-direction-label {
+        display: none;
+    }
+
+    .pagination-compact .page-link {
+        min-width: 2.15rem;
+        min-height: 2.15rem;
+        padding: 0.35rem 0.5rem;
     }
 }
 

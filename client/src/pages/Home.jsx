@@ -81,7 +81,7 @@ export default function Home() {
                             <div className="card-body">
                                 <h3 className="h5">Stealth / Early</h3>
                                 <p className="small">Stealth, bootstrapped, or within two years of an AI or technical founder role</p>
-                                <Link to="/search?tag=Stealth%2FEarly%20Founder" className="stretched-link" aria-label="Search stealth and early founders" />
+                                <Link to="/search?tag=Verified%20Stealth%20%2F%20Early" className="stretched-link" aria-label="Search verified stealth and early founders" />
                             </div>
                         </div>
                     </div>

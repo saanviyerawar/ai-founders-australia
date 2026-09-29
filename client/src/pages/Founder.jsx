@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { getFounder } from '../services/founders';
+import TagBadge from '../components/TagBadge';
 
 export default function FounderProfile() {
     // Extract founderId from URL parameters
@@ -205,10 +206,10 @@ export default function FounderProfile() {
                         <div>
                         {Array.isArray(founderData.tags) ? (
                             founderData.tags.map((tag, index) => (
-                            <span key={index} className="badge bg-secondary me-1 mb-1">{tag}</span>
+                            <TagBadge key={`${tag}-${index}`} tag={tag} />
                             ))
                         ) : (
-                            <span className="badge bg-secondary me-1 mb-1">{founderData.tags}</span>
+                            <TagBadge tag={founderData.tags} />
                         )}
                         </div>
                     </div>

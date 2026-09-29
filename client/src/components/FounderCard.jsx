@@ -1,20 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import TagBadge from './TagBadge';
 
 export default function FounderCard({ founder }) {
-  const badgeClass = (tag) => {
-    if (tag === 'Hidden Founder') return 'bg-warning text-dark';
-    if (tag === 'Strict Hidden') return 'bg-danger';
-    if (tag === 'Emerging Founder') return 'bg-success';
-    if (tag === 'Stealth/Early Founder') return 'bg-dark';
-    if (tag === 'Discovery Candidate') return 'bg-light text-dark border';
-    if (tag === 'Stealth Candidate') return 'bg-dark';
-    if (tag === 'AI/Tech Candidate') return 'bg-info text-dark';
-    if (tag === 'AI Founder') return 'bg-primary';
-    if (tag === 'Tech Founder') return 'bg-info text-dark';
-    return 'bg-secondary';
-  };
-
   return (
     <div className="col-md-6 mb-4">
       <div className="card h-100 founder-card">
@@ -32,9 +20,9 @@ export default function FounderCard({ founder }) {
               {founder.current_job_start && ` (Started: ${founder.current_job_start})`}
             </span>
           </p>
-          <div className="founder-tags mb-3">
+          <div className="founder-tags d-flex flex-wrap gap-1 mb-3">
             {founder.tags && founder.tags.map((tag, index) => (
-              <span key={index} className={`badge ${badgeClass(tag)} me-1 mb-1`}>{tag}</span>
+              <TagBadge key={`${tag}-${index}`} tag={tag} />
             ))}
           </div>
           {founder.hidden_signals?.length > 0 && (
