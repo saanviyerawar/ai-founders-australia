@@ -278,7 +278,7 @@ export default function Search() {
                     </div>
                     
                     <div className="col-md-9">
-                        {supportsLiveCollection ? (
+                        {supportsLiveCollection && (
                         <div className="card shadow-sm mb-4">
                             <div className="card-body">
                                 <h5 className="card-title">Discover founders automatically</h5>
@@ -328,10 +328,6 @@ export default function Search() {
                                     </div>
                                 )}
                             </div>
-                        </div>
-                        ) : (
-                        <div className="alert alert-info shadow-sm" role="status">
-                            Showing public-headline-verified stealth candidates by default. Use the cohort filters to explore all 520 profiles, including strict hidden, emerging, stealth/early, and broader discovery candidates.
                         </div>
                         )}
 
