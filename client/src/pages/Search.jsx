@@ -37,7 +37,7 @@ export default function Search() {
     const [tagsFilter, setTagsFilter] = useState(() => {
         if (requestedTag === 'all') return [];
         if (requestedTag) return [requestedTag];
-        return supportsLiveCollection ? [] : ['Discovery Candidate'];
+        return supportsLiveCollection ? [] : ['Stealth Candidate'];
     });
     const [currentPage, setCurrentPage] = useState(1);
     const [industryFilter, setIndustryFilter] = useState('');
@@ -331,7 +331,7 @@ export default function Search() {
                         </div>
                         ) : (
                         <div className="alert alert-info shadow-sm" role="status">
-                            Showing newly discovered AI/tech founder candidates by default. Use the cohort filters to switch to verified strict hidden, emerging, or stealth/early profiles.
+                            Showing public-headline-verified stealth candidates by default. Use the cohort filters to explore all 520 profiles, including strict hidden, emerging, stealth/early, and broader discovery candidates.
                         </div>
                         )}
 

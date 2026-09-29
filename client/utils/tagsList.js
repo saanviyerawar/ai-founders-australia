@@ -4,6 +4,7 @@ export const tags = [
     "Emerging Founder",
     "Stealth/Early Founder",
     "Discovery Candidate",
+    "Stealth Candidate",
     "AI/Tech Candidate",
     "AI Founder",
     "Tech Founder",

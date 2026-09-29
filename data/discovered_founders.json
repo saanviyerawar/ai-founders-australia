@@ -26,6 +26,20 @@
     ]
   },
   {
+    "name": "Abdi Baata",
+    "linkedin_url": "https://www.linkedin.com/in/abdullahbaata/",
+    "current_title": "Founder & CEO at Switchify",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
     "name": "Abdul Aziz",
     "linkedin_url": "https://www.linkedin.com/in/aziz1984/",
     "current_title": "Co-founder @ Stakater & Aurora Solutions | Cloud Native, Platform Engineering & Software Products",
@@ -35,7 +49,38 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Abhijeet Narang",
+    "linkedin_url": "https://www.linkedin.com/in/abhijeet-narang-63b419175/",
+    "current_title": "Generative AI Startup Co-Founder | PhD @ Monash University | Software Engineer @ Microsoft | Masters of AI @ Monash  | CSE @ IIT(ISM) Dhanbad | Candidate Master @ Codeforce.",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Abhinav Goyal • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/quizatzh/",
+    "current_title": "Engineer | Co-Founder at Vitopia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
     ]
   },
   {
@@ -49,7 +94,54 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia",
-      "fintech AI founder Australia"
+      "fintech AI founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Adrian Giles",
+    "linkedin_url": "https://www.linkedin.com/in/adriantgiles/",
+    "current_title": "Executive Chairman & Co-Founder at Fortress Australia, Director at Adslot, Founder at Tasser.ai, Co-Founder at Hitwise.",
+    "city": "Brighton, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Adrian Moschella • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/adrian-moschella-83154579/",
+    "current_title": "Co-Founder of Zupply and Workfast Australia  l  Founder & CEO of Moscorp Ventures",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Ahmad Saleem",
+    "linkedin_url": "https://www.linkedin.com/in/ahmad-saleem-ansari/",
+    "current_title": "Global Mineral Exploration Leader | AI & Data Analytics in Geoscience | Podcast Connoisseur | Founder @ Needle Digital | Founder @ Podyssey | Former IMDEX, VerAI, Ibaera PE Fund, MMG, BHP",
+    "city": "Perth, Western Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia"
     ]
   },
   {
@@ -62,7 +154,39 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Alan Khoshbakht • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/alan-khoshbakht-372264187/",
+    "current_title": "Founder @ InTheMarket | Building Australia’s B2B service marketplace",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Alejandro Acosta",
+    "linkedin_url": "https://www.linkedin.com/in/alejandro-acosta-a10022151/en/",
+    "current_title": "Product Manager | Founder turned 0→1 PM | AI-Native Product Development",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne",
+      "stealth AI cofounder Australia"
     ]
   },
   {
@@ -75,7 +199,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "technical founder Australia"
+      "technical founder Australia",
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -92,6 +217,34 @@
     ]
   },
   {
+    "name": "Alexander Högström",
+    "linkedin_url": "https://www.linkedin.com/in/alexanderhogstrom/",
+    "current_title": "Founder · Ex-Google · Building Customer-Centric Products",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Alexey Vlaskin",
+    "linkedin_url": "https://www.linkedin.com/in/alexey-vlaskin/",
+    "current_title": "CEO and Founder at Fredgolm",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
     "name": "Ali M. • 3rd+",
     "linkedin_url": "https://www.linkedin.com/in/ali-m-832541230/",
     "current_title": "CEO & Founder | Elevate Facilities Solutions | Integrated Facilities Services & Maintenance | Delivering Reliable Technical Solutions Through Trusted & verified technicians | Sydney, Australia",
@@ -102,6 +255,77 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "technical founder Australia"
+    ]
+  },
+  {
+    "name": "Aliasgar Rassiwala",
+    "linkedin_url": "https://www.linkedin.com/in/aliasgar-rassiwala/",
+    "current_title": "CEO & Founder | RexTech Australia | Driving Global IT Solutions Across APAC, EMEA & the Middle East",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Alicia Zhu",
+    "linkedin_url": "https://www.linkedin.com/in/alicia-zhu-520a67269/",
+    "current_title": "Australia Lead | Cofounder @ Ring2.ai | Enterprise Voice AI | Every ring → a result",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Alisha Shaw",
+    "linkedin_url": "https://www.linkedin.com/in/alisha-shaw-founder/",
+    "current_title": "Pawtrips Founder | Building Australia’s #1 pet travel & lifestyle brand.",
+    "city": "Brisbane, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Alistair Cornish",
+    "linkedin_url": "https://www.linkedin.com/in/cornishac/",
+    "current_title": "Founder at Arconomy",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
+    "name": "Allen Fu • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/allenfu/",
+    "current_title": "Founder | Building Australia’s Most Viral Brands | Viral Content Marketing | Podcast Host | TikTok Global Top 50 Brands To Watch",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -118,6 +342,20 @@
     ]
   },
   {
+    "name": "Amit Khanna",
+    "linkedin_url": "https://www.linkedin.com/in/amitkhannaofficepolitics/",
+    "current_title": "Senior Project Manager | Leadership & Communication Advocate | Founder - Office Politics | TEDx Speaker | Author | Maxwell Leadership Certified Team | DISC Trainer",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
     "name": "Amy Tucker",
     "linkedin_url": "https://www.linkedin.com/in/amymaytucker/",
     "current_title": "Co Founder Springboards.ai , Ex Shopify, Ex Twitter",
@@ -131,6 +369,20 @@
     ]
   },
   {
+    "name": "Ana de Lara",
+    "linkedin_url": "https://www.linkedin.com/in/anavdelara/",
+    "current_title": "Founder @ AROE | Design, Innovation, Service Design",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
     "name": "Anand Pansare • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/anand-pansare/",
     "current_title": "Co-Founder & CEO – Australia | Inteliment & Rubiscape AI • Data Platforms • Decision Intelligence • ANZ Digital Innovation",
@@ -141,7 +393,9 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia",
-      "machine learning founder Australia"
+      "machine learning founder Australia",
+      "AI cofounder Australia",
+      "data founder Australia"
     ]
   },
   {
@@ -154,7 +408,12 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI founder Australia"
+      "AI founder Australia",
+      "building in stealth founder Australia",
+      "stealth mode founder Sydney",
+      "stealth mode founder Melbourne",
+      "AI cofounder Australia",
+      "data founder Australia"
     ]
   },
   {
@@ -197,6 +456,62 @@
     ]
   },
   {
+    "name": "Andrew Turnbull",
+    "linkedin_url": "https://www.linkedin.com/in/andrewturnbullbris/",
+    "current_title": "Founder - Placed Australia - Real Estate Recruitment",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Andrew Walker",
+    "linkedin_url": "https://www.linkedin.com/in/andrew-walker-taxy/",
+    "current_title": "Founder & advisor across tech, AI & impact",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "data founder Australia"
+    ]
+  },
+  {
+    "name": "Andy Gourley • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/andy-gourley-8830a470/",
+    "current_title": "Founder & CEO of Red Frogs Australia",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Andy Hutvagner • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/andyhutvagner/",
+    "current_title": "Founder & CTO at Stealth Startup",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
     "name": "Andy Parackal • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/andy-parackal-354b03120/",
     "current_title": "AI enthusiast & builder | Founder, True Acre | PropTech & systems thinker 📍Brisbane 🇦🇺",
@@ -207,6 +522,20 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Brisbane"
+    ]
+  },
+  {
+    "name": "Andy Viswanath • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/andy-viswanath-5124481/",
+    "current_title": "Co-Founder at Infiltra.ai| Cyber Security Entrepreneur & Advisor| Alchemist Alum|",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -245,7 +574,22 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "fintech AI founder Australia"
+      "fintech AI founder Australia",
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Angelo Miciano • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/angelomiciano/",
+    "current_title": "Fintech Founder | Product Builder | Problem Solver",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
     ]
   },
   {
@@ -259,6 +603,125 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "climate tech founder Australia"
+    ]
+  },
+  {
+    "name": "Anna Acopian",
+    "linkedin_url": "https://www.linkedin.com/in/anna-acopian/",
+    "current_title": "CEO at SafegateAI | Founder of Tech4Growth Australia | Global AI Adviser | Building Global Frameworks for Safe & Trusted AI | Keynote Speaker | Author | Mentor",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Anne Fulwood • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/commsstrategyexecsupportmedia/",
+    "current_title": "Founder & Director, Fulworks Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Annette Lackovic • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/annette-lackovic/",
+    "current_title": "• Co-Founder Sales Institute Australia • Mentor for Women Entrepreneurs • Founder of HERPRENEUR™ • CoFounder ‘Reverse Selling Method™  • Speaker • Podcaster • Host of ‘Herpreneur™ Show & LIVE Events",
+    "city": "Perth, Western Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Anshul Saini",
+    "linkedin_url": "https://www.linkedin.com/in/anshulsaini90/",
+    "current_title": "Tech Founder | Architect",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Sydney",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Anthony Stevens",
+    "linkedin_url": "https://www.linkedin.com/in/antpstevens/",
+    "current_title": "Co-founder & CEO | Building the sovereign control layer for AI",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "building in stealth founder Australia",
+      "AI stealth founder Australia",
+      "stealth mode founder Melbourne",
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Anton van den Hengel",
+    "linkedin_url": "https://www.linkedin.com/in/antonvandenhengel/",
+    "current_title": "Founder / CEO at Metacognition",
+    "city": "Greater Adelaide Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Arash Sadrieh",
+    "linkedin_url": "https://www.linkedin.com/in/arashsadrieh/",
+    "current_title": "Co-founder and Chief Science Officer at Ninjatech.ai (Conversational AI) | ex Amazonian",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Archie Warneford • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/archie-warneford-a84040243/",
+    "current_title": "Founder @ Up4It | Building Australia’s social event discovery app",
+    "city": "Curl Curl, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -284,7 +747,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Aryan Verma",
+    "linkedin_url": "https://www.linkedin.com/in/vermaaryan/",
+    "current_title": "Founder & CEO at Young Entrepreneurs Connect | Managing Director (Australia) at Beyond the Bounds",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Ashbin koirala • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/ashbin-koirala/",
+    "current_title": "Founder & CEO at Xonects",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
     ]
   },
   {
@@ -301,6 +793,48 @@
     ]
   },
   {
+    "name": "Avron Rubin",
+    "linkedin_url": "https://www.linkedin.com/in/avronrubin/",
+    "current_title": "Founder & CEO | Stealth Fitness & Wellness Venture | Fitness, Wellness, Technology & Community",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Ayman Saleh • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/ayman-saleh-b237391b7/",
+    "current_title": "Founder, One Voice Australia | Building Better Conversations for Australia’s Future",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Ayushi Sinha",
+    "linkedin_url": "https://www.linkedin.com/in/ayushi-sinha-0244011b6/",
+    "current_title": "Founder in Stealth Mode| Brand Management | Digital Marketing | FMCG | Marketing & Design Thinking | Graduated from University of Sydney",
+    "city": "Delhi, India",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
     "name": "Barry Silis",
     "linkedin_url": "https://www.linkedin.com/in/barry-silis/",
     "current_title": "Founder | Operating Partner at AI Native Australia",
@@ -311,7 +845,22 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia",
-      "generative AI founder Australia"
+      "generative AI founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Bastien Durand",
+    "linkedin_url": "https://www.linkedin.com/in/bastien-durand1/",
+    "current_title": "Founder - Product & Operations at CoachAssist",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
     ]
   },
   {
@@ -325,7 +874,22 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "artificial intelligence founder Australia",
-      "generative AI founder Australia"
+      "generative AI founder Australia",
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Ben Green",
+    "linkedin_url": "https://www.linkedin.com/in/ben-green-b0497335/",
+    "current_title": "Head of muru-D & Incubation @ Telstra | Founder to Fortune 500 Acquisition (by Schneider Electric) | Board Member: Farmbot · Zetifi · Hapya | Building Australia’s Connected Future",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -351,7 +915,11 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "healthtech AI founder Australia"
+      "healthtech AI founder Australia",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -368,6 +936,20 @@
     ]
   },
   {
+    "name": "Ben Walker",
+    "linkedin_url": "https://www.linkedin.com/in/ben-walker-83391718/",
+    "current_title": "Founder | CEO | AUSTRALIA & MIDDLE EAST",
+    "city": "Surry Hills, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
     "name": "Birdgard Australia • 3rd+",
     "linkedin_url": "https://www.linkedin.com/in/birdgard-australia-51b71a301/",
     "current_title": "Founder at Birdgard Australia and StrykerAV",
@@ -378,7 +960,37 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "generative AI founder Australia",
-      "robotics founder Australia"
+      "robotics founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Bob Hitching",
+    "linkedin_url": "https://www.linkedin.com/in/bobhitching/",
+    "current_title": "Fractional Hands-On Full-Stack CTO · 3x startup CxO founder · Agentic AI · Voice AI · SaaS",
+    "city": "New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Brad Krauskopf",
+    "linkedin_url": "https://www.linkedin.com/in/bradkrauskopf/",
+    "current_title": "Founder & Chair, Hub Australia",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -417,7 +1029,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Cameron Spencer • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/cameron-spencer-4278a946/",
+    "current_title": "Founder + CEO at FLUTR flutrmotors.com #urbanaerialmobility Aviation/Mobility/ConsumerTech",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Cameron Woodford • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/cameron-woodford-0b6788133/",
+    "current_title": "Founder and CEO, Appello",
+    "city": "New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
     ]
   },
   {
@@ -434,6 +1075,77 @@
     ]
   },
   {
+    "name": "Caroline Trotman • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/caroline-trotman/",
+    "current_title": "Co Founder and COO at Revealr",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Catherine Mary Said • 1st",
+    "linkedin_url": "https://www.linkedin.com/in/catherine-mary-said-/",
+    "current_title": "Founder @ Goodtimes | Best AI Pitch Australia | Genesis Winner | USYD Young Future Leader Scholar | Summit Speaker",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Caz K. • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/carolmknight/",
+    "current_title": "Mind Management Coach and Founder of Mind Management Australia",
+    "city": "Greater Perth Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Chad Kadish",
+    "linkedin_url": "https://www.linkedin.com/in/chad-kadish-b3aa6b217/",
+    "current_title": "Founder & CEO at Haylo Health | Building Australia’s same day health appointment marketplace | haylohealth.com.au",
+    "city": "Elwood, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Chaitanya Tanwar • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/chaitanya-tanwar-1278a9355/",
+    "current_title": "Founder @OpseraFlow | Most advanced dental automation software in Australia",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
     "name": "Chandan M.",
     "linkedin_url": "https://www.linkedin.com/in/chandanmiskin/",
     "current_title": "founder @ alphaleo",
@@ -443,7 +1155,37 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Charles Sterner",
+    "linkedin_url": "https://www.linkedin.com/in/charlessterner/",
+    "current_title": "Founder, Executive Leader, Navy Veteran",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Charlie Chen • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/charliechen77/",
+    "current_title": "Co-Founder Ample Life I Disability & Healthcare I Fintech & Digital Assets I Harvard GMP",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth AI cofounder Australia"
     ]
   },
   {
@@ -462,7 +1204,71 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Chris Heng",
+    "linkedin_url": "https://www.linkedin.com/in/chris-heng/",
+    "current_title": "Co Founder @ Stealth Startup | Finance / Biology @ USYD",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Chris Hynes, MBA (Technology, Innovation, e-Commerce) • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/chris-hynes-mba-technology-innovation-e-commerce-13405b4/",
+    "current_title": "AI Strategist, Blue Ocean Thinker, Founder, Creating Intelligent, Purpose-Driven Digital Ventures",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Chris J. N.",
+    "linkedin_url": "https://www.linkedin.com/in/cjndesign/",
+    "current_title": "Founder | Design Ops | AI Product Design | Ex-D501 | HUB 10x",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Chris McDonald",
+    "linkedin_url": "https://www.linkedin.com/in/chris-mcdonald-cybersecurityexpert/",
+    "current_title": "I help global businesses find threats before they become breaches | CEO @Stealth Cyber | Founder @ Endvr Health | AI Engineer & Security",
+    "city": "Gold Coast, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia"
     ]
   },
   {
@@ -476,6 +1282,62 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI startup founder Melbourne"
+    ]
+  },
+  {
+    "name": "Chris Thorpe",
+    "linkedin_url": "https://www.linkedin.com/in/christhorpe1/",
+    "current_title": "Founder & Executive Vice Chairman at Leading Edge Data Centres (LEDC) building regional Australia’s data centres, enabling AI diffusion, decentralizing networks and clouds",
+    "city": "North Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Chris Tian • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/christiansydney/",
+    "current_title": "Full Stack Software Engineer, Founder & Investor | Building Applied AI Solutions for Enterprise Operations",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Christian Perez • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/christian-perez-b00ab577/",
+    "current_title": "Managing Director & Founder at ProMedCo Australia",
+    "city": "Currans Hill, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Christy Laurence • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/christy-laurence/",
+    "current_title": "Product + Growth Leader | Exited Founder (Plann → Linktree) | AI-native startups | Building products people pay (and stay) for.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -514,7 +1376,10 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "AI cofounder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -541,7 +1406,10 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -555,6 +1423,20 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "SaaS founder Australia"
+    ]
+  },
+  {
+    "name": "Cormac Connolly",
+    "linkedin_url": "https://www.linkedin.com/in/cormacconnollycmsclouddotnet/",
+    "current_title": "Co-Founder | Pair People | Software Engineering",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
     ]
   },
   {
@@ -572,7 +1454,11 @@
       "robotics founder Australia",
       "SaaS founder Australia",
       "climate tech founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -589,6 +1475,20 @@
     ]
   },
   {
+    "name": "Cyrus Sabounchi • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/csabounchi/",
+    "current_title": "Founder",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
     "name": "Damien Hughes",
     "linkedin_url": "https://www.linkedin.com/in/hughesdamien/",
     "current_title": "Co-founder @ Stealth | AI Product @ Half Machine",
@@ -598,7 +1498,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Damien Petty",
+    "linkedin_url": "https://www.linkedin.com/in/damienpettyau/",
+    "current_title": "Co-Founder at Borderless Credit",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Dan Gilmore",
+    "linkedin_url": "https://www.linkedin.com/in/dangilmoreaustralia/",
+    "current_title": "Founder + director",
+    "city": "Toowoomba City, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
     ]
   },
   {
@@ -629,6 +1558,20 @@
     ]
   },
   {
+    "name": "Daniel H.",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-h-658a57169/",
+    "current_title": "Founder & Entrepreneur | Kepd • MoreCo • Brikkle",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
     "name": "Daniel Ho",
     "linkedin_url": "https://www.linkedin.com/in/supremelighting/",
     "current_title": "Founder at Supreme Lighting Australia",
@@ -644,7 +1587,67 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Daniel J Swift",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-j-swift-au/",
+    "current_title": "MD Zipline Australia l Ex McKinsey, Google, Uber l Founder",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Daniel James Slater",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-james-slater-13079288/",
+    "current_title": "Taking time off as a new parent - previously Relume Co-founder/CTO, software engineer at Canva and Jane St",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Daniel Le CA CPA",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-le-ca-cpa-992a5430/",
+    "current_title": "CEO/Founder/Entrepreneur",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Daniel Osorio • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-osorio-054b58250/",
+    "current_title": "Founder & CEO at Colcambios Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -658,6 +1661,106 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI startup founder Sydney"
+    ]
+  },
+  {
+    "name": "Daniel Sgaravizzi",
+    "linkedin_url": "https://www.linkedin.com/in/daniel-sgaravizzi-214a12157/",
+    "current_title": "Chief Structural Steel Estimator | Project Management | Founder & Lead Developer (Stealth SaaS Venture) | Bridging Industrial Engineering and IT",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Danielle Storm",
+    "linkedin_url": "https://www.linkedin.com/in/daniellestormhoogland/",
+    "current_title": "Founder at Design by Storm",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Darren Kwan • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/kwanesports/",
+    "current_title": "Co-Founder CHE, President Esports Australia, CEO at AEL",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Darren Moffatt",
+    "linkedin_url": "https://www.linkedin.com/in/darrenmoffatt/",
+    "current_title": "Entrepreneur in Home Equity Release & Retirement Planning | Building AI-Led Decision Infrastructure for Australia’s Ageing Population | Founder – iDownsize & Seniors First",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Darren Rogan",
+    "linkedin_url": "https://www.linkedin.com/in/darrenrogan/",
+    "current_title": "CEO & Founder @ Film Labs | Superteam Australia | Web3 & AI Innovator | Advisory - Rogues Lab",
+    "city": "Gold Coast, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia",
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Darren Winterford",
+    "linkedin_url": "https://www.linkedin.com/in/darrenwinterford/",
+    "current_title": "Co-Founder, The Voyage Co. Previously EdApp (acquired by SafetyCulture 2020). Building and growing things out of Encore Digital in Sydney, Australia.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Darshana Shah",
+    "linkedin_url": "https://www.linkedin.com/in/darshanapshah/",
+    "current_title": "AI & Data Science at Adobe | Educator at TAFE NSW | Founder at Algora",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
     ]
   },
   {
@@ -687,6 +1790,20 @@
     ]
   },
   {
+    "name": "David Simpson",
+    "linkedin_url": "https://www.linkedin.com/in/david-simpson-6335052/",
+    "current_title": "Founder / Entrepreneur",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
     "name": "David Tormey",
     "linkedin_url": "https://www.linkedin.com/in/davetormeyaus/",
     "current_title": "AI delivery assurance and governance | Former CTO/CIO | Founder, Cordexa | Brisbane",
@@ -697,6 +1814,120 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Brisbane"
+    ]
+  },
+  {
+    "name": "David Washbrook",
+    "linkedin_url": "https://www.linkedin.com/in/davidtwashbrook/",
+    "current_title": "Founder | Co-Founder | Director | FinTech | SaaS | Energy Transition",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "David Whittle",
+    "linkedin_url": "https://www.linkedin.com/in/davidwhittle/",
+    "current_title": "Founder & NED",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Dean H. • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/deanhuang/",
+    "current_title": "Inventor with PhD, visionary, founder.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Demi Rathbone • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/demirathbone/",
+    "current_title": "Founder & Visionary at REVIVHER — Building Australia’s #1 flexible job platform for mums",
+    "city": "Sunshine Coast, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Dennie Farmer",
+    "linkedin_url": "https://www.linkedin.com/in/dennie-farmer-1a9511156/",
+    "current_title": "Co-Founder at Nuage Technology Group - AI/Data/DevOps Specialist",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
+    "name": "Dipen Rughani GAICD • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/dipen-rughani-gaicd-6522093/",
+    "current_title": "CEO & Founder @ Newland Global Group, Director @ Polycab Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Dominique du Maurier • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/dominique-du-maurier-99333919/",
+    "current_title": "Founder of eCommerce Concept in Stealth Mode",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Don Alderman • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/don-alderman-807aa2/",
+    "current_title": "Founder & CEO at Neildon Australia Pty Ltd",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -750,7 +1981,54 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "machine learning founder Australia"
+      "machine learning founder Australia",
+      "building in stealth founder Australia",
+      "data founder Australia",
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Dr. Mike Conway",
+    "linkedin_url": "https://www.linkedin.com/in/conwaymike/",
+    "current_title": "Founder & CEO at XVenture | Creator of MindZen I Leadership, Emotional Agility & High-Performance Expert and Coach",
+    "city": "North Narrabeen, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Edouard D Hakim",
+    "linkedin_url": "https://www.linkedin.com/in/edouard-d-hakim-74495518b/",
+    "current_title": "Founder @ Stealth Construction Tech",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Eduardo Ferrero",
+    "linkedin_url": "https://www.linkedin.com/in/eduardoferrero/",
+    "current_title": "CEO & Founder | Fintech | Commercial Growth | Venture Building",
+    "city": "Maroubra, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -776,7 +2054,9 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "technical founder Australia"
+      "technical founder Australia",
+      "LLM founder Australia",
+      "applied AI founder Australia"
     ]
   },
   {
@@ -790,6 +2070,49 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "machine learning founder Australia"
+    ]
+  },
+  {
+    "name": "Elisha Booth",
+    "linkedin_url": "https://www.linkedin.com/in/elishabooth/",
+    "current_title": "Founder at GLO LAB Australia Pty Ltd",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Elissa McGrath",
+    "linkedin_url": "https://www.linkedin.com/in/elissamm/",
+    "current_title": "Founder & Longevity Technologist | Ageless Vitality AI (Stealth) | Data Privacy & Security Advocate | AI-Driven Biological Age Reversal & Neuro-Resilience for Women 40-55",
+    "city": "Mermaid Beach, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Elon Datt",
+    "linkedin_url": "https://www.linkedin.com/in/elondatt/",
+    "current_title": "CEO | Founder @ Tapt",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -832,6 +2155,63 @@
     ]
   },
   {
+    "name": "Fabian Wesselink",
+    "linkedin_url": "https://www.linkedin.com/in/fabian-wesselink/",
+    "current_title": "Author | Founder of The Breatholution™ | Australia’s leading Breathwork Trainer combining Breathwork with Hypnotherapy",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Fadoua Amrani - MBA",
+    "linkedin_url": "https://www.linkedin.com/in/fadouaat/",
+    "current_title": "Co-Founder | Synthrics | AI-Encoded Bidding Best Practice | Powering Compliant, Winning Tenders Across ANZ",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Farid Shariff • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/farid-shariff-58127253/",
+    "current_title": "Founder at Zyron Tech Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Francois H.",
+    "linkedin_url": "https://www.linkedin.com/in/francois-hanna/",
+    "current_title": "Founder · Building AI-native agentic infrastructure for service businesses | Stealth",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
     "name": "Gareth Adams",
     "linkedin_url": "https://www.linkedin.com/in/gareth-adams/",
     "current_title": "Founder",
@@ -841,7 +2221,38 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "healthtech AI founder Australia"
+      "healthtech AI founder Australia",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Gary Smith",
+    "linkedin_url": "https://www.linkedin.com/in/gary-smith-44729611/",
+    "current_title": "Entrepreneur | Founder of BioPak | EY Entrepreneur of the Year | Investor | Board Advisor | Mentor to Emerging Founders",
+    "city": "Dover Heights, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Gaurav Luthra • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/gauravluthra/",
+    "current_title": "Founder & CEO - Digitality Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
     ]
   },
   {
@@ -854,7 +2265,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -872,7 +2284,24 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Graham Firrell • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/graham-firrell-6663a61/",
+    "current_title": "Founder & CEO - GOWILD Australia Kakadu Kickers",
+    "city": "Haberfield, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -886,7 +2315,9 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia",
-      "artificial intelligence founder Australia"
+      "artificial intelligence founder Australia",
+      "software founder Australia",
+      "data founder Australia"
     ]
   },
   {
@@ -899,7 +2330,41 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia",
+      "founder stealth startup Sydney",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Grant McDowell • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/grant-mcdowell-027b76b2/",
+    "current_title": "Chief Strategy and Product Officer | Co-Founder Enosi Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Greg Miller",
+    "linkedin_url": "https://www.linkedin.com/in/millergj/",
+    "current_title": "Exec Director @ TNX Data  -  Partner @ Arena Mars  -  Founder",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "data founder Australia"
     ]
   },
   {
@@ -912,7 +2377,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -926,6 +2392,48 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "healthtech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Hayden Langhorn • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/haydenlanghorn/",
+    "current_title": "•  Co-Founder @ AgenCheck.   • Building next gen AI-native tech for background checks.  • Previously founded InterCheck (exit to Certn in 2022).                                      • Background Check industry 15+ years.",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Hayley Baker",
+    "linkedin_url": "https://www.linkedin.com/in/hayleybaker147/",
+    "current_title": "Co-Founder @ Stealth",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Heather Garriock OLY",
+    "linkedin_url": "https://www.linkedin.com/in/heather-garriock-oly-41728177/",
+    "current_title": "Executive Director Football - Deputy CEO Football Australia | Olympian | Founder of Game Face Pro Sunscreen",
+    "city": "Central Coast, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -964,7 +2472,24 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "machine learning founder Australia"
+      "machine learning founder Australia",
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Himal Kumar • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/himal-kumar-2557b1b7/",
+    "current_title": "Founder | Builder",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -996,6 +2521,20 @@
     ]
   },
   {
+    "name": "Igor K.",
+    "linkedin_url": "https://www.linkedin.com/in/eeghor/",
+    "current_title": "Co-Founder & CTO @ Mirmi AI | AI Strategy, GenAI & Automation",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
+    ]
+  },
+  {
     "name": "Ima Miri",
     "linkedin_url": "https://www.linkedin.com/in/imamiri/",
     "current_title": "Founder @ AIPoint | Helping B2B service businesses scale past $1M without hiring a sales rep | AI outbound & GTM strategy | Powered by AI, Guided by Humans",
@@ -1006,6 +2545,48 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "healthtech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Isabella Charanduk • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/isabella-charanduk/",
+    "current_title": "Founder at Sozo Australia",
+    "city": "Hope Island, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Ish Khroud • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/ish-khroud-irosk/",
+    "current_title": "Founder | Irosk Australia | Birthstone Jewellery | Building Meaningful Jewellery Inspired by Personal Stories",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Ishaan Nudurupati • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/ishaan-nudurupati/",
+    "current_title": "Co-Founder @ GN Nexus | Y10 SRC @ Girraween High School | Young Founders Award | Entrepreneurship • AI • Business Innovation",
+    "city": "Acacia Gardens, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -1023,7 +2604,53 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Jacob L. • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jacobliujy/",
+    "current_title": "Founder at Stealth Startup",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Jacqui Pollock",
+    "linkedin_url": "https://www.linkedin.com/in/jacquipollock/",
+    "current_title": "Founder at HUMAN LEADERSHIP helping you have Game Changing Conversations at work and at home.🌟Coach🌟Facilitator🌟Author 🌟Speaker.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Jake Maloney • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/j4ke-m4loney/",
+    "current_title": "Founder @ AI Jobs Australia | Australia’s #1 Job Board for AI Roles",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
     ]
   },
   {
@@ -1041,6 +2668,20 @@
     ]
   },
   {
+    "name": "James Bull",
+    "linkedin_url": "https://www.linkedin.com/in/jamesbull2/",
+    "current_title": "Co-founder at Hiresoft | Building Software Engineering Teams",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
     "name": "James Crowther • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/jameshcrowther/",
     "current_title": "Startup Advisor | Founder | PhD Candidate in Machine Learning and Aeronautical Engineering",
@@ -1051,6 +2692,34 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "machine learning founder Australia"
+    ]
+  },
+  {
+    "name": "James Ferguson • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/james-ferguson-1816561a/",
+    "current_title": "Founder at Beyond40",
+    "city": "North Parramatta, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "James Grant",
+    "linkedin_url": "https://www.linkedin.com/in/grantedcoaching/",
+    "current_title": "Director, Hybrid Cloud at Fujitsu Australia | NSW Adult Volunteer of the Year - Sydney and Eastern Suburbs 2024 | Founder - Granted Coaching",
+    "city": "Bondi, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -1069,7 +2738,10 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1082,7 +2754,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -1113,6 +2786,49 @@
     ]
   },
   {
+    "name": "James Whelan",
+    "linkedin_url": "https://www.linkedin.com/in/james-whelan-au/",
+    "current_title": "Managing Director & Founder | National Waste Management Broker | ESG & Sustainability Advisory |                  AI-Adaptor | Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "James William de Mortimer • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/james-william-mortimer/",
+    "current_title": "CEO @ Mortimer (Indie Agency) / 5x Award-winning writer (allblacks.com) / Founder / CMO / 10+ years Marketing (IBM, Fitness First, Wagamama), 10+ Events (IHG, LSE: CPG, ASX: EVT) and Sports (NZ Rugby, BLK, TNT Sports)",
+    "city": "Brisbane City, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Jamie Bang • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jamie-bang/",
+    "current_title": "Co-Founder",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
     "name": "Jamieson O'Reilly",
     "linkedin_url": "https://www.linkedin.com/in/theonejvo/",
     "current_title": "Founder @ Dvuln.Hacker. T̶h̶i̶n̶k̶i̶n̶g̶ Doing outside the box. Adversary Simulation, Pentesting, Frontier AI Security.",
@@ -1136,7 +2852,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "generative AI founder Australia"
+      "generative AI founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1175,7 +2892,22 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Jasper Cyan • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jasper-cyan/",
+    "current_title": "Founder & Portfolio Owner | Top 50 Australia | 1,800+ Reviews • 124 Awards",
+    "city": "Canberra, Australian Capital Territory, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -1192,6 +2924,90 @@
     ]
   },
   {
+    "name": "Jeff Bullas",
+    "linkedin_url": "https://www.linkedin.com/in/jeffbullas/",
+    "current_title": "Content, creators & marketing in the age of AI | Helping you get seen, heard & remembered | 33M readers | Founder, Zyrro.ai",
+    "city": "Bronte, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Jeff Quach • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jeffreyquach/",
+    "current_title": "Founder | Impact + AI",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Jeremiah Mannings",
+    "linkedin_url": "https://www.linkedin.com/in/jmannings/",
+    "current_title": "Founder PromptLeash AI Adoption & Melbourne AI",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
+    "name": "Jeremy Cabral",
+    "linkedin_url": "https://www.linkedin.com/in/jeremycabral/",
+    "current_title": "Co-founder Finder.com, $100m+ revenue bootstrapped, now a growth advisor sharing how",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Jeremy Lau • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jeremy-lau-aus/",
+    "current_title": "Data, AI & Engineering Leader | Chirp AI Co-Founder & Head of Tech @ LFS",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Jeremy Waine",
+    "linkedin_url": "https://www.linkedin.com/in/jeremy-waine/",
+    "current_title": "Founding Member at Software Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
     "name": "Jeroen van Dalen",
     "linkedin_url": "https://www.linkedin.com/in/jeroenvandalen/",
     "current_title": "CEO @ Integral | Founder & Director @ AITAI - Institute for AI | AI Technologist & Leadership",
@@ -1202,6 +3018,77 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "fintech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Jerome L. • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jeromeloo/",
+    "current_title": "5 Ventures. 3 Hackathon wins. 1 Mission: Building the “External Brain” for neurodivergent kids | Founder @ Echo | Brand • Product • Business Architecture",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Jescinta Schroeder • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/jescinta-schroeder-489774a/",
+    "current_title": "CEO & Co Founder | TIF Agency • Australia • Colombia • USA",
+    "city": "Adelaide, South Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Jinan Zou, PhD",
+    "linkedin_url": "https://www.linkedin.com/in/drjinanzou/",
+    "current_title": "AI in Education | AI Capability, Literacy & Governance | UNSW Sydney | Founder, AI Camp Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Jinghui Wang",
+    "linkedin_url": "https://www.linkedin.com/in/jinghui-wang-31b3a3275/",
+    "current_title": "Founder @ Qualia AI | AI & Automation Specialist @ HomeFront Australia",
+    "city": "Brisbane, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Joanne Law - Mediation Institute",
+    "linkedin_url": "https://www.linkedin.com/in/joannelaw/",
+    "current_title": "Director, Mediation Institute · Co-founder Interact Support & Medi8. Helping mediators train, accredit and build sustainable practices",
+    "city": "Lake Wellington, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
     ]
   },
   {
@@ -1218,6 +3105,34 @@
     ]
   },
   {
+    "name": "Joe Butler",
+    "linkedin_url": "https://www.linkedin.com/in/joebutlerdev/",
+    "current_title": "🌱 Founder @ human. | I help companies hire & build in the AI era",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
+    "name": "Joe Figliano • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/joefigliano/",
+    "current_title": "Founder and Co-Creator at Lovefest Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
     "name": "Joe Woodham",
     "linkedin_url": "https://www.linkedin.com/in/joe-woodham/",
     "current_title": "Founder, Torii. Building kn0w.",
@@ -1231,6 +3146,34 @@
     ]
   },
   {
+    "name": "Johannes van der wiel",
+    "linkedin_url": "https://www.linkedin.com/in/johannes-van-der-wiel-16686424/",
+    "current_title": "General Manager and Founder of Keto Cloud Australia Pty Ltd & Keto Cloud LLC",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "John Anstey ✔✔☁☁",
+    "linkedin_url": "https://www.linkedin.com/in/johnanstey/",
+    "current_title": "Retired. Previously, Founder & CEO. Linkedin Australia Power Profile.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
     "name": "John Fargher",
     "linkedin_url": "https://www.linkedin.com/in/john-fargher-97577654/",
     "current_title": "Co-Founder | Chief Strategy Officer | Sustainability |  Australia's Top 100 Young Entrepreneurs (#18)",
@@ -1240,7 +3183,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "John Paul Sinadjan",
+    "linkedin_url": "https://www.linkedin.com/in/sinadjanjohnpaul/",
+    "current_title": "Founder @ Cory | Building Australia’s 1st Healthcare Matching Marketplace",
+    "city": "Greendale, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "John Sader • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/johnsader/",
+    "current_title": "Co-Founder & Director - Lion Private Equity",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
     ]
   },
   {
@@ -1255,7 +3227,54 @@
     "source_queries": [
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "AI cofounder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Johnny Konstantinou",
+    "linkedin_url": "https://www.linkedin.com/in/johnnykonsta/",
+    "current_title": "Director Strategic Partnerships & Growth @ScaleUpTech & Co-Founder @DeepSeed Ventures | Venture Builder | Venture Design, Build & Scale | Field Engineering & Managed Services | AI & Fintech Enablement",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Jon Satterley",
+    "linkedin_url": "https://www.linkedin.com/in/satterley/",
+    "current_title": "CEO & Co-Founder at Fortress Australia",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Jonathan Sher",
+    "linkedin_url": "https://www.linkedin.com/in/jonathansher-aus/",
+    "current_title": "Founder of Time-Wise Australia Director of Technology Entelect Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "data founder Australia"
     ]
   },
   {
@@ -1272,6 +3291,48 @@
     ]
   },
   {
+    "name": "Joseph W. • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/joseph-w-8244a61a6/",
+    "current_title": "Startup co-founder",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Josh Leask",
+    "linkedin_url": "https://www.linkedin.com/in/joshualeask/",
+    "current_title": "Software Architect & Tech Lead | AI-Driven Systems, Cloud-Native Architecture & Product Engineering | Co-Founder",
+    "city": "Greater Newcastle Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Josh Morrow",
+    "linkedin_url": "https://www.linkedin.com/in/whoisjoshmorrow/",
+    "current_title": "We run APJ growth for offshore B2B tech vendors. Two ABM campaigns a month, every channel on one named list | Founder, David & Goliath | Co-founder, Areebi (AI governance)",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
     "name": "Josh O’Sullivan",
     "linkedin_url": "https://www.linkedin.com/in/joshosullivanai/",
     "current_title": "Co-Founder at Praxis Partners",
@@ -1281,7 +3342,37 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "artificial intelligence founder Australia"
+      "artificial intelligence founder Australia",
+      "stealth founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Josh Sprague • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/josh-sprague/",
+    "current_title": "CEO & Founder at Trove, Leading Wealth-Tech Innovations in Australia",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Joshua Hooper • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/joshua-hooper-73a39022/",
+    "current_title": "C-Level Executive / Director / Founder",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
     ]
   },
   {
@@ -1294,7 +3385,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "fintech AI founder Australia"
+      "fintech AI founder Australia",
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Justin Blij",
+    "linkedin_url": "https://www.linkedin.com/in/jusblij/",
+    "current_title": "Founder @ GTM Digital ▪ GTM & Revenue Hiring Specialist ▪ Recruiting for B2B/B2C technology businesses ▪ Builder of AI systems for recruiting businesses & internal TA teams.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Justin North",
+    "linkedin_url": "https://www.linkedin.com/in/justin-north-07430598/",
+    "current_title": "Director and founder at Concept Hospitality Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
     ]
   },
   {
@@ -1312,7 +3432,11 @@
       "machine learning founder Australia",
       "generative AI founder Australia",
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1330,7 +3454,25 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Katie Edwards • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/katie-edwards-63b8b7143/",
+    "current_title": "Founder of Go High Level Women | Strategic Partnerships & Executive Experiences | Intelligent Wellness & High-Performance Innovation",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -1344,7 +3486,9 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1363,7 +3507,10 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1376,7 +3523,11 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -1390,6 +3541,22 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "fintech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Kelvin Hands",
+    "linkedin_url": "https://www.linkedin.com/in/kelvin-hands/",
+    "current_title": "Co Founder & CPTO @ Cynthio",
+    "city": "Greater Perth Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia"
     ]
   },
   {
@@ -1417,6 +3584,48 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "healthtech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Kerrie McGilvray",
+    "linkedin_url": "https://www.linkedin.com/in/kerrie-mcgilvray/",
+    "current_title": "Building sellable, founder-independent businesses | Operations & People | Investor",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Kevin Garber",
+    "linkedin_url": "https://www.linkedin.com/in/kevingarber/",
+    "current_title": "Founder @ LogicGlue · Ask Claude anything about Xero & XPM - and take action | AI for accountants & Xero users | Speaker, The Firm AI Summit 2026",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Kevin Zhang • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/kevin-zhang-46625438/",
+    "current_title": "Founder and Managing Director at JW Capital Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -1459,6 +3668,34 @@
     ]
   },
   {
+    "name": "Kopi Nadarajah",
+    "linkedin_url": "https://www.linkedin.com/in/kopinadarajah/",
+    "current_title": "CEO and Founder at HealthcareLink",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Kristy-Ann Waugh • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/kristy-ann-waugh-167586104/",
+    "current_title": "Founder | Coach | Speaker | Therapist",
+    "city": "Cairns, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
     "name": "Kumar R • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/kumar4266/",
     "current_title": "Founder - Opportunities Australia",
@@ -1468,7 +3705,41 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "robotics founder Australia"
+      "robotics founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Kyle Newman • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/kyle-newman-023325189/",
+    "current_title": "Engineering Lead | Machine Learning Engineer | Founder",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Kyran McDonnell",
+    "linkedin_url": "https://www.linkedin.com/in/kyranmcdonnell/",
+    "current_title": "Founder, CEO",
+    "city": "Southbank, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
     ]
   },
   {
@@ -1481,7 +3752,10 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "artificial intelligence founder Australia"
+      "artificial intelligence founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1498,7 +3772,112 @@
       "machine learning founder Australia",
       "generative AI founder Australia",
       "robotics founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "AI cofounder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Laura Cruickshank",
+    "linkedin_url": "https://www.linkedin.com/in/lauracruickshank/",
+    "current_title": "Social Impact Founder & Advisor | Ex-Deloitte Strategy & Operations",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Laura Henshaw",
+    "linkedin_url": "https://www.linkedin.com/in/laura-henshaw/",
+    "current_title": "Co-Founder of Kic",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Lauren Cassimatis AccS(Crim)",
+    "linkedin_url": "https://www.linkedin.com/in/lauren-cassimatis-accs-crim-145987179/",
+    "current_title": "LIV Accredited Criminal Law Specialist. Principal Lawyer, Gallant Law. Lecturer, College of Law. Professional Speaker. Founder: Connecting Lawyer Mums; Conversations with a Criminal Lawyer;  and the SSJI.",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
+    "name": "Leah Houlden-Wood • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/leah-houlden-wood-46a78651/",
+    "current_title": "Founder and CEO at Leah Houlden",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Leanne Kemp at Everledger • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/leannekemp/",
+    "current_title": "Advocate for a Circular Economy ; Global Policy Advisor (OECD/WEF) ; Tech Founder Focused on Planetary Health & Traceability",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Leigh Monahan • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/leigh-monahan-5630449/",
+    "current_title": "Co-Founder and Director at Stealth Biotech Startup",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Leon Gouletsas",
+    "linkedin_url": "https://www.linkedin.com/in/leongouletsas/",
+    "current_title": "Co-Founder | Educator | Entrepreneur-in-Residence",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Melbourne"
     ]
   },
   {
@@ -1515,6 +3894,133 @@
     ]
   },
   {
+    "name": "Linda Gregory",
+    "linkedin_url": "https://www.linkedin.com/in/lindagregoryscoopanova/",
+    "current_title": "Purpose driven Founder & CEO | Turning Scoopanova into Australia’s Next Iconic Ice Cream Brand | B2B, Retail, Export | Investor Opportunity #scaleup #FMCG #B2B",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Lindsay Gray",
+    "linkedin_url": "https://www.linkedin.com/in/lindsay-gray/",
+    "current_title": "Founder & CEO @ D’Vinci Group (dvincigroup.com) | Managing Director @ D’Vinci (dvinci.io) | Co-Founder @ Firesight Technologies (firesight.ai) | Strategist @ StoryCloud (storycloud.com.au) | Entrepreneur",
+    "city": "Denman Prospect, Australian Capital Territory, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "LINYI JIA • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/linyijia9/",
+    "current_title": "Founder & CEO at MeowX | Building an On-Demand Local Delivery Platform for Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Lloyd Wallington • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/lloyd-wallington/",
+    "current_title": "Founder",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Loreen L.",
+    "linkedin_url": "https://www.linkedin.com/in/loreen-l-10b813112/",
+    "current_title": "Founder - The Solace Connect TSC",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Louis Strauss",
+    "linkedin_url": "https://www.linkedin.com/in/lcmstrauss/",
+    "current_title": "Co-founder | Building the sovereign control layer for AI",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Lourens Swanepoel",
+    "linkedin_url": "https://www.linkedin.com/in/lourens-swanepoel/",
+    "current_title": "Digital Transformation Executive | Data & AI Leader | Founder & CTO | AI Governance, Risk & Strategy Practitioner",
+    "city": "Bridgeman Downs, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Lu Nan",
+    "linkedin_url": "https://www.linkedin.com/in/lu-nan/",
+    "current_title": "Founder & CEO @ The Best of Moi | Building sustainability-focused wellness",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Lucy Beaumont",
+    "linkedin_url": "https://www.linkedin.com/in/lucy-beaumont-72660824/",
+    "current_title": "Founder and Director at Scout Studios",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
     "name": "Luke Bamford • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/luke-bamford-9626b440/",
     "current_title": "Founder of Bam Software - Australia",
@@ -1524,7 +4030,81 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "artificial intelligence founder Australia"
+      "artificial intelligence founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Luke Iggleden",
+    "linkedin_url": "https://www.linkedin.com/in/luke-iggleden/",
+    "current_title": "Building sovereign, private cloud infrastructure for Australia | Founder & CEO @ Amaze Intelligence · Co-founder & COO @ GreenThread.ai | Private AI, Cloud, Data Centre, Inference efficiency",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Lyndi Kim Jackson • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/lyndikim/",
+    "current_title": "Founder at The Scuba Gym Australia - providing Scuba Therapy to people with neuro-special needs or disabilities.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Mandy Richards • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/mandy-richards/",
+    "current_title": "CEO | Founder of Global Sisters •2025 Third Sector CEO of the Year •Pro Bono Australia Innovator+Impact25 •APEC•Cartier Women’s Initiative Coach•Dragons Den winner",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Marco Prayer Galletti",
+    "linkedin_url": "https://www.linkedin.com/in/marco-prayer-galletti/",
+    "current_title": "Co-Founder and CTO at ReSmart - Off your hands. Into the loop.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Marina Shteinberg, B Int Rel, B Transl, LLM, MSyl",
+    "linkedin_url": "https://www.linkedin.com/in/marina-shteinberg-b-int-rel-b-transl-llm-msyl-a39791/",
+    "current_title": "Director | Co-Founder, Pentagram Advisory",
+    "city": "Canberra, Australian Capital Territory, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
     ]
   },
   {
@@ -1541,6 +4121,21 @@
     ]
   },
   {
+    "name": "Mat Baxter",
+    "linkedin_url": "https://www.linkedin.com/in/matbaxter/",
+    "current_title": "Founder & CEO, SKINGRAPHICA. Investor & Advisor.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
     "name": "Matt Gold",
     "linkedin_url": "https://www.linkedin.com/in/mattcgold/",
     "current_title": "Founder @ Re:Sourced. → Specialist in recruiting Forward Deployed, AI & Software Engineers | Startups → Enterprise | AU 🇦🇺 US 🇺🇸 EMEA 🇪🇺 | 58 Recommendations 🏆 | Tech Seed Investor 🌱",
@@ -1554,6 +4149,20 @@
     ]
   },
   {
+    "name": "Matthew Charles • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/matthewcharles/",
+    "current_title": "Co-Founder & Digital Architect for Outbox",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
     "name": "Matthew Dell • 2nd",
     "linkedin_url": "https://www.linkedin.com/in/mattdellau/",
     "current_title": "Founder, ENROL AI",
@@ -1564,6 +4173,36 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI startup founder Sydney"
+    ]
+  },
+  {
+    "name": "Matthew Hadchiti • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/matthewhadchiti/",
+    "current_title": "Co-Founder",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Matthew Smith • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/mattsmithfreightselect/",
+    "current_title": "Founder & CEO at Cool Cartons Australia",
+    "city": "Gold Coast, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -1581,6 +4220,49 @@
     ]
   },
   {
+    "name": "Md Ashraful I.",
+    "linkedin_url": "https://www.linkedin.com/in/mdashrafulislam00/",
+    "current_title": "Founder at MAI Physics",
+    "city": "Brisbane, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Michael Bromley MAICD",
+    "linkedin_url": "https://www.linkedin.com/in/michaelbromley/",
+    "current_title": "Founder & CEO, VentureSpark | Non-Executive Director | Australia’s innovation gap is a coordination problem, not a talent problem, and I build the ventures that close it | Former CEO, Stone & Chalk and AustCyber",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Michael Chen",
+    "linkedin_url": "https://www.linkedin.com/in/michael-chen-b3343a173/",
+    "current_title": "Founder & Managing Partner, SpringCapital · US late-stage AI secondaries for ANZ & APAC investors · 8 years and 20+ ventures backed · Outsized returns from enduring great companies",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
     "name": "Michael G.",
     "linkedin_url": "https://www.linkedin.com/in/mgately/",
     "current_title": "Co-founder and CEO at Trellis Data, Australia’s Machine Learning expert company, taking leading AI research to market via our award winning platform, across the globe",
@@ -1590,7 +4272,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "machine learning founder Australia"
+      "machine learning founder Australia",
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Michael Kingsbury",
+    "linkedin_url": "https://www.linkedin.com/in/kingsburymichael/",
+    "current_title": "Co-founder & Co-CEO at Uluu",
+    "city": "Perth, Western Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Michael Lohmann",
+    "linkedin_url": "https://www.linkedin.com/in/michaellohmann/",
+    "current_title": "Founder, Protego VC Studio | Building the Autonomous Enterprise | Founder of LeftShield, EDO & Certen | Fractional CRO",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
     ]
   },
   {
@@ -1603,7 +4314,50 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "technical founder Australia"
+      "technical founder Australia",
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Michael Rubio",
+    "linkedin_url": "https://www.linkedin.com/in/michael-rubio-career/",
+    "current_title": "FPV Proximity Drone Pilot | Founder of Waking Dream FPV",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Michael Wentworth-Bell",
+    "linkedin_url": "https://www.linkedin.com/in/michael-wentworth-bell/",
+    "current_title": "Founder & Creative Director - Digital Lode Immersive Media",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Mike Cannon-Brookes",
+    "linkedin_url": "https://www.linkedin.com/in/mcannonbrookes/",
+    "current_title": "CEO and Co-Founder - Atlassian",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -1616,7 +4370,38 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "deep tech founder Australia"
+      "deep tech founder Australia",
+      "applied AI founder Australia"
+    ]
+  },
+  {
+    "name": "Mike Wingfield",
+    "linkedin_url": "https://www.linkedin.com/in/mikewingfield/",
+    "current_title": "Co-Founder, Buyers Boutique | Helping high-income professionals build wealth through strategic property investment",
+    "city": "Sunshine Coast, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Mir Hussain",
+    "linkedin_url": "https://www.linkedin.com/in/mir-hussain-infinity-lab/",
+    "current_title": "Founder & CEO @ Stealth AI / Fintechs Startup",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia"
     ]
   },
   {
@@ -1629,7 +4414,9 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "technical founder Australia"
+      "technical founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia"
     ]
   },
   {
@@ -1642,7 +4429,36 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "technical founder Australia"
+      "technical founder Australia",
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Mohsin Ali Khan",
+    "linkedin_url": "https://www.linkedin.com/in/mohsinalimohsinali/",
+    "current_title": "50M MAU Product Leader | Building AI Products used by 250k+ users | Ex Seek | CPO | Founder",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
+    "name": "Monique Svenson • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/monique-svenson-887892283/",
+    "current_title": "Founder | Creative Director @ Young Bondi | Product Innovation + Retail Strategy | Building Australia’s Coolest Kids Gift Brand",
+    "city": "Bondi Beach, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -1657,7 +4473,53 @@
     "source_queries": [
       "artificial intelligence founder Australia",
       "machine learning founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Nandan Subramaniam",
+    "linkedin_url": "https://www.linkedin.com/in/nandan-subramaniam-0b394ba4/",
+    "current_title": "Partner | Founder",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
+    "name": "Natalie F.",
+    "linkedin_url": "https://www.linkedin.com/in/nataliefeller/",
+    "current_title": "Founder - stealth mode startup",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Nathan Krisanski",
+    "linkedin_url": "https://www.linkedin.com/in/nathankrisanski/",
+    "current_title": "I build AI systems that run real businesses | Head of Technology, The Agency (ASX:AU1) | Founder, KNIC Ventures — AI consulting & agentic infrastructure | PropTech founder (exited)",
+    "city": "Brisbane, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -1683,7 +4545,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "healthtech AI founder Australia"
+      "healthtech AI founder Australia",
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -1700,6 +4563,49 @@
     ]
   },
   {
+    "name": "Nick Anderson",
+    "linkedin_url": "https://www.linkedin.com/in/nickpanderson/",
+    "current_title": "Co-Founder | Business Leader | Board Member",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Nick Behr",
+    "linkedin_url": "https://www.linkedin.com/in/nickbehr1/",
+    "current_title": "CEO & Founder | Building one of Australia’s most trusted media agencies | Champion for simplicity, integrity & innovation in media",
+    "city": "Surry Hills, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Nick Bruce",
+    "linkedin_url": "https://www.linkedin.com/in/nick-bruce/",
+    "current_title": "Co-Founder & Managing Director at Revolution Surgical",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
     "name": "Nicolas Raffa Pirra",
     "linkedin_url": "https://www.linkedin.com/in/nraffa/",
     "current_title": "Full Stack AI Engineer | Builder & Founder | Helping companies become AI-native without the BS | 📍Sydney 🇦🇺",
@@ -1709,7 +4615,50 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Nikolas Doukellis • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/nikdoukellis/",
+    "current_title": "Co Founder at Droplit, Inc",
+    "city": "Melbourne, Florida, United States",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Nimer Joudeh • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/nimer-joudeh-7099b8a7/",
+    "current_title": "Founder & CEO at Frenzy Park | Entertainment, Retail & Business Development | Building Family Experiences Across Australia",
+    "city": "Sandringham, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Nirodya Pussadeniya",
+    "linkedin_url": "https://www.linkedin.com/in/nirodyap/",
+    "current_title": "PhD Student (Deakin × Coventry) | Co-Founder @ Synacal",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
     ]
   },
   {
@@ -1722,7 +4671,40 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Nishant Jha",
+    "linkedin_url": "https://www.linkedin.com/in/mr-nishant-jha/",
+    "current_title": "Founder at Stealth Startup",
+    "city": "Kensington, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Novie Onor",
+    "linkedin_url": "https://www.linkedin.com/in/noviejayonor/",
+    "current_title": "Immigration Attorney - NY  🇺🇸 | NSW 🇦🇺 | ICU Nurse - NY  🇺🇸 | NSW 🇦🇺 | Founder | Cross-Border Legal Strategist | Author of Noble and Honorable Adventures",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
     ]
   },
   {
@@ -1765,6 +4747,63 @@
     ]
   },
   {
+    "name": "Patrick Nader Dahdal • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/patricknaderdahdal/",
+    "current_title": "Founder The Personality Science Company",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Paul Arnost",
+    "linkedin_url": "https://www.linkedin.com/in/paul-arnost/",
+    "current_title": "Start-up Founder | Digital Product & Delivery Executive",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Paul Christy • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/paulsimonchristy/",
+    "current_title": "Founder, Varanti — building ventures, IP and patents across digital, AI and deep technology",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Paul Messick • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/paul-messick-b1b5008/",
+    "current_title": "Founder at Stealth Startup",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
     "name": "Paul R.",
     "linkedin_url": "https://www.linkedin.com/in/paul-riley-samsaraeco/",
     "current_title": "Founder Samsara Eco | Creating circularity for the world’s most valuable materials | AI platform industrialising enzymes | Building resilient, sovereign supply chains",
@@ -1775,6 +4814,36 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "climate tech founder Australia"
+    ]
+  },
+  {
+    "name": "Paul Ringrose • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/paulringrose/",
+    "current_title": "CFO (Part Time) - Fleet Technologies (previously ingogo), Co-Founder & CFO - Byte Federal Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Peter Biddulph • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/peter-biddulph-280a00193/",
+    "current_title": "Founder at ACH Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -1804,6 +4873,20 @@
     ]
   },
   {
+    "name": "Peter Treloar",
+    "linkedin_url": "https://www.linkedin.com/in/peter-treloar-a2ab3214/",
+    "current_title": "Founder @ TALY | Understand People through Personality & AI |  Passionate about HRTech",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
     "name": "Piero Sansone",
     "linkedin_url": "https://www.linkedin.com/in/pierosansone/",
     "current_title": "I help SME’s scale their teams with the best Senior Level AI & Software Engineers  | Co- Founder of ScaleUp Recruitment",
@@ -1827,6 +4910,20 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia"
+    ]
+  },
+  {
+    "name": "Prashant Thapa",
+    "linkedin_url": "https://www.linkedin.com/in/thapaprashant69/",
+    "current_title": "Senior Software Engineer | Founding Engineer | Python, AWS, AI-native Development| Fintech & Insurtech | Sydney",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
     ]
   },
   {
@@ -1856,6 +4953,20 @@
     ]
   },
   {
+    "name": "Ramya Sakhamuri",
+    "linkedin_url": "https://www.linkedin.com/in/rams-6540b5238/",
+    "current_title": "Founder & Director , Kelter Software Solutions & Jobsy Local Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
     "name": "Rashid Kotwal",
     "linkedin_url": "https://www.linkedin.com/in/rashidkotwal/",
     "current_title": "Turn Expertise into Revenue | Sales Systems for Tech & Advisory Firms | Build Predictable Revenue Without Relying on the Founder | Contact: Rashid.Kotwal@RevealedResources.com, +61 414 913 334",
@@ -1878,7 +4989,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "founder stealth startup Melbourne"
     ]
   },
   {
@@ -1895,6 +5007,48 @@
     ]
   },
   {
+    "name": "Rebecca Tom",
+    "linkedin_url": "https://www.linkedin.com/in/rebecca-tom-829246144/",
+    "current_title": "Founder | Equity Markets | B Econ.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Ricardo Barriga",
+    "linkedin_url": "https://www.linkedin.com/in/ricardobarriga/",
+    "current_title": "Founder at Business to Business Referral Partners",
+    "city": "Brisbane, Queensland, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Richard Anderson",
+    "linkedin_url": "https://www.linkedin.com/in/randersondefencerecruiter/",
+    "current_title": "Founder of Defence Talent: Australia’s Defence Industry Recruiter | Army Officer Cadet",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
     "name": "Richard Griffin",
     "linkedin_url": "https://www.linkedin.com/in/richard-griffin-82bba9140/",
     "current_title": "Founder at Pipefreezer Australia",
@@ -1906,7 +5060,38 @@
     "source_queries": [
       "generative AI founder Australia",
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Richard Nebauer • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/richard-nebauer-903aa7b/",
+    "current_title": "Director Arcon Projects Australia CEO and Founder Blackrock Resources",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Richard Pacheco • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/richard-rvp/",
+    "current_title": "Founder at 2W REO Reinforcement Solutions | Steel Fixing Contractor | Residential & Structural Reinforcement | Sydney",
+    "city": "Mosman, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -1936,6 +5121,22 @@
     ]
   },
   {
+    "name": "Rithi Mathew",
+    "linkedin_url": "https://www.linkedin.com/in/rithi-mathew-4506b93/",
+    "current_title": "Head of Product | Founder | AI B2B SaaS | Fintech",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
     "name": "Rob Wijaya",
     "linkedin_url": "https://www.linkedin.com/in/robertwijaya/",
     "current_title": "Founder & Investor | Agentic AI Companies across Healthcare, Business & Wellness | Nex Healthcare • Exo Digital • Nex Digital • Nex Brand • Luxo Hot Springs",
@@ -1945,7 +5146,95 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "healthtech AI founder Australia"
+      "healthtech AI founder Australia",
+      "AI stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Robert Gallup • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/exceptionalgrowthprofitability/",
+    "current_title": "🚀 Oz2US Ventures Founder | 25-year US & AU CxO and Serial Founder | Int’l Growth Agency Lead | U.S. Expansion Strategist, Partner & Speaker.",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth mode founder Sydney",
+      "stealth mode founder Melbourne"
+    ]
+  },
+  {
+    "name": "Robyn Francis • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/robynfrancispermaculture/",
+    "current_title": "Founder at Permaculture College Australia",
+    "city": "New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Rocco Panetta",
+    "linkedin_url": "https://www.linkedin.com/in/rocco-panetta-026357/",
+    "current_title": "Principal Lawyer & Founder | Commercial Litigation & IP | LegalTech Entrepreneur building AI solutions for Legal Services | Strategic Director & Corporate Advisor",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Roger Anderson • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/roger-anderson79/",
+    "current_title": "Founder at Stealth Startup",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Ron Dadd • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/ron-dadd-87620918/",
+    "current_title": "Founder – Director UK & Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Rory McKercher • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/rory-mckercher-89426727b/",
+    "current_title": "Founder | Managing Director at RAW Australia",
+    "city": "Bayswater, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -1958,7 +5247,22 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Rueben Heuzenroeder • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/ruebenh/",
+    "current_title": "Founder/CEO at Stealth Startup",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Melbourne"
     ]
   },
   {
@@ -1990,7 +5294,68 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Ryan Elliott",
+    "linkedin_url": "https://www.linkedin.com/in/ryanj-elliott/",
+    "current_title": "Founder. Golfer. Writer. Currently looking for my next problem to solve.",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "software founder Australia"
+    ]
+  },
+  {
+    "name": "Sachin Shah • 1st",
+    "linkedin_url": "https://www.linkedin.com/in/sachin-shah-687b66149/",
+    "current_title": "Co-founder Kindling.🔨|  Ex Investor at AirTree",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Sage Wilder • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/sage-wilder-61b1b0bb/",
+    "current_title": "Business Owner & Entrepreneur  🏋️‍♂️ Founder | Strong & Mindful",
+    "city": "Caringbah South, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Sam Dunleavy",
+    "linkedin_url": "https://www.linkedin.com/in/sam-dunleavy-625a51183/",
+    "current_title": "Co-founder and Managing Director of The Yacht Life Australia. Specialising in Yacht Charter experiences in Australia and International.",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI cofounder Australia"
     ]
   },
   {
@@ -2003,7 +5368,68 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "founder stealth startup Sydney",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Samira Sadeghi, Ph.D • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/samira-sadeghi-ph-d-00591367/",
+    "current_title": "Co-Founder & Entrepreneur I Business Development Executive @  OncoRevive | 13+ Years of Oncology Research Experience",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Sandy Colombo ✅ • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/sandy-colombo-%E2%9C%85-33038447/",
+    "current_title": "Founder, Speaker, NLP Master & Trainer",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Sapna Dhawan • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/sapna-dhawan-a950a5129/",
+    "current_title": "Founder at Highness Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Sarah Simpson FHEA, MBA, FIntLM, BSc",
+    "linkedin_url": "https://www.linkedin.com/in/globaldigitalhealthcare/",
+    "current_title": "Co-Founder at Global Digital Healthcare",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
     ]
   },
   {
@@ -2029,7 +5455,64 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Sek-Mun Wong",
+    "linkedin_url": "https://www.linkedin.com/in/sekmun/",
+    "current_title": "CTO | CEO & Tech Founder | Payments | Agentic Engineering Teams",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Shane Matheson",
+    "linkedin_url": "https://www.linkedin.com/in/shane-matheson-a05a78274/",
+    "current_title": "Founder of Aivy | Building an AI Creative Platform | Seeking Engineers & Builders in Australia",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Sharon Kashefi",
+    "linkedin_url": "https://www.linkedin.com/in/sharon-kashefi-a807253b4/",
+    "current_title": "Founder of REVEA | Barrier-First Skincare | System-Based Skin Support | Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Sharon Lee",
+    "linkedin_url": "https://www.linkedin.com/in/lee-sharon/",
+    "current_title": "Founder at Stealth Startup",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -2046,6 +5529,35 @@
     ]
   },
   {
+    "name": "Sharz Shabani pour • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/shahrzad1/",
+    "current_title": "Founder at Refine Marketing Australia",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Shekar Gogu • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/shekar-gogu-62b987342/",
+    "current_title": "Founder and Software Developer at Prasta Apps Studio",
+    "city": "Perth, Western Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
+    ]
+  },
+  {
     "name": "Shraey Bhatia",
     "linkedin_url": "https://www.linkedin.com/in/shraeybhatia/",
     "current_title": "Y-combinator Alum || Voice AI || On-Device AI || Prev. University of Melbourne AI/LLM PhD || Ex-Founder @ Leaping AI",
@@ -2055,7 +5567,37 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Shyamal Pal Jackey",
+    "linkedin_url": "https://www.linkedin.com/in/eapal/",
+    "current_title": "Founder & CEO @ Electrifying Australia |",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Simon Ingleson • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/simon-ingleson-99a23a70/",
+    "current_title": "Founder & CEO | SaaS, AI & Workforce Technology Ventures",
+    "city": "Greater Perth Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI stealth founder Australia"
     ]
   },
   {
@@ -2081,7 +5623,10 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "AI stealth founder Australia",
+      "NLP founder Australia",
+      "LLM founder Australia"
     ]
   },
   {
@@ -2098,7 +5643,82 @@
       "machine learning founder Australia",
       "generative AI founder Australia",
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Sophia Moscovis PhD MRSN GAICD",
+    "linkedin_url": "https://www.linkedin.com/in/sophiamoscovis/",
+    "current_title": "VP Operations & Strategy (ASX: RAC) | Board Observer | HealthTech Co-Founder | Keynote Speaker",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Sophie Firmager",
+    "linkedin_url": "https://www.linkedin.com/in/sophie-firmager-0b95813/",
+    "current_title": "Global Head of Learning & Capability, Laser Clinics Group | ex-Tiffany & Co. People & Culture Executive | Founder & Author",
+    "city": "Double Bay, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
+    "name": "Sreyna Rath",
+    "linkedin_url": "https://www.linkedin.com/in/sreyna-rath/",
+    "current_title": "CEO & Tech Co-founder Jaimee.ai | Techstars ’24 | Data scientist | + 5 yrs fintech | +11 yrs Accenture | Public speaker",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "data founder Australia"
+    ]
+  },
+  {
+    "name": "Stanley Ho • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/stanleyho-au/",
+    "current_title": "Wellness Entrepreneur | Co-Founder, Revibe | Building Accessible & Scalable Wellness | Human Performance & Recovery | Technology & AI | Malaysia + Australia",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Starmakers Teresa Page • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/starmakers-teresa-page/",
+    "current_title": "Founder & Transformation Coach at Starmakers Australia & Denmark  Media Enquiries: +61 410 422 100",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
     ]
   },
   {
@@ -2124,7 +5744,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "deep tech founder Australia"
+      "deep tech founder Australia",
+      "AI entrepreneur Australia founder"
     ]
   },
   {
@@ -2141,7 +5762,40 @@
       "artificial intelligence founder Australia",
       "generative AI founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Steven Gao • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/steven-gao-a1253213/",
+    "current_title": "Co-Founder and CEO at Stealth Startup",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Stuart Hunter",
+    "linkedin_url": "https://www.linkedin.com/in/stuarthunter/",
+    "current_title": "Co-Founder & CTO, stealth | 3x technical founder | .NET · React · PostgreSQL · AWS",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -2155,7 +5809,22 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "generative AI founder Australia",
-      "robotics founder Australia"
+      "robotics founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Surya Pillai",
+    "linkedin_url": "https://www.linkedin.com/in/surya-pillai-22a96437/",
+    "current_title": "Founder | AI Strategy & End-to-End AI Services | GenAI & LLM Solutions | Cybersecurity | Digital Transformation | Australia & New Zealand | Building Women Leadership Communities in Australia & NZ |",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "LLM founder Australia"
     ]
   },
   {
@@ -2173,7 +5842,11 @@
       "machine learning founder Australia",
       "generative AI founder Australia",
       "robotics founder Australia",
-      "SaaS founder Australia"
+      "SaaS founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -2186,7 +5859,9 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "healthtech AI founder Australia"
+      "healthtech AI founder Australia",
+      "stealth AI cofounder Australia",
+      "founder stealth startup Sydney"
     ]
   },
   {
@@ -2205,7 +5880,25 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Tania D. • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/tania-d-13409845/",
+    "current_title": "Founder at Stealth",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia"
     ]
   },
   {
@@ -2218,7 +5911,70 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "generative AI founder Australia"
+      "generative AI founder Australia",
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Teresa Engelhard",
+    "linkedin_url": "https://www.linkedin.com/in/teresaengelhard/",
+    "current_title": "Founder & CEO, StickyTek",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Tick J.",
+    "linkedin_url": "https://www.linkedin.com/in/tickj/",
+    "current_title": "Scaling judgment & Conviction for venture capital & Family office decisions | Founder, NUVC® |  Angel/VC Investor | CQF | AI Agentic Framework for start-ups and family offices",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth mode founder Melbourne",
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Tim Beer",
+    "linkedin_url": "https://www.linkedin.com/in/timothy-beer/",
+    "current_title": "Co-founder at Currents. Tech solutions for golf clubs.",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia"
+    ]
+  },
+  {
+    "name": "Tim Crisp",
+    "linkedin_url": "https://www.linkedin.com/in/crisptim/",
+    "current_title": "Founder & CEO | Harvard | UniMelb | MAICD",
+    "city": "Melbourne, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney",
+      "stealth mode founder Melbourne"
     ]
   },
   {
@@ -2232,6 +5988,34 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "fintech AI founder Australia"
+    ]
+  },
+  {
+    "name": "Tim Noye • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/tim-noye/",
+    "current_title": "Founder rethinking how independent cafes get better support.",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Tim Sell • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/tim-sell-16281534/",
+    "current_title": "Founder of Emergency Management Training Australia",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -2250,7 +6034,11 @@
       "generative AI founder Australia",
       "robotics founder Australia",
       "SaaS founder Australia",
-      "cybersecurity founder Australia"
+      "cybersecurity founder Australia",
+      "AI cofounder Australia",
+      "software founder Australia",
+      "data founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -2263,7 +6051,23 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "founder stealth startup Sydney",
+      "founder stealth startup Melbourne"
+    ]
+  },
+  {
+    "name": "Tiya Gorain • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/tiyagorain/",
+    "current_title": "Founder of Business With Balance | Social Entrepreneur | Certified Life Coach/ Psychotherapist | Business Coach & Analyst (Marketing, Branding & AI) | Mentor | Influencer",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
     ]
   },
   {
@@ -2277,7 +6081,64 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "deep tech founder Australia",
-      "fintech AI founder Australia"
+      "fintech AI founder Australia",
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Tom Butler",
+    "linkedin_url": "https://www.linkedin.com/in/tcbutler/",
+    "current_title": "Product advisor and founder, with 22 years’ experience at eBay and Atlassian.",
+    "city": "Coogee, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Tom Ferrier",
+    "linkedin_url": "https://www.linkedin.com/in/tomferrier/",
+    "current_title": "Founder at Greener - Awarded #1 clean-tech start-up in Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Tom McGregor",
+    "linkedin_url": "https://www.linkedin.com/in/tominaus/",
+    "current_title": "Founder, CreatEcards ​> Turning Canva designs into event pages, digital cards, and more",
+    "city": "Surry Hills, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Tom Pitney",
+    "linkedin_url": "https://www.linkedin.com/in/tompitney/",
+    "current_title": "Founder & AI Strategist | AI Deployment, Engineering & Consulting | Building Future-Ready AI Solutions",
+    "city": "Greater Melbourne Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "applied AI founder Australia"
     ]
   },
   {
@@ -2294,6 +6155,20 @@
     ]
   },
   {
+    "name": "Tony V.",
+    "linkedin_url": "https://www.linkedin.com/in/tony-v-95553924/",
+    "current_title": "Managing Director Birdeye APAC | AI Strategy & Execution | Founder 2x Exits",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
     "name": "Tracey Hamilton",
     "linkedin_url": "https://www.linkedin.com/in/mstraceyhamilton/",
     "current_title": "Strategy & Growth Leader | Multi-Market Media, Creative & Business Strategy | ex-BBH, TBWA, DDB, Zenith & Carat | co-founder Pirate Coffee Roasters",
@@ -2304,6 +6179,20 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "deep tech founder Australia"
+    ]
+  },
+  {
+    "name": "Travis Clapp",
+    "linkedin_url": "https://www.linkedin.com/in/travisclapp/",
+    "current_title": "Co-founder at Coursebox.ai | One platform to create, deliver and scale online training",
+    "city": "Adelaide, South Australia, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
     ]
   },
   {
@@ -2320,6 +6209,48 @@
     ]
   },
   {
+    "name": "Utkarsh Manocha",
+    "linkedin_url": "https://www.linkedin.com/in/utkarshmanocha/",
+    "current_title": "Founder at My First Australian Offer | Gen z career expert reaching over 4m in Australia | Free Newsletter | #1 community for grads building their Australian careers | LinkedIn Top Voice",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia"
+    ]
+  },
+  {
+    "name": "Vaibhav Namburi",
+    "linkedin_url": "https://www.linkedin.com/in/vaibhavnamburi/",
+    "current_title": "Founder @ Smartlead | 1x Exit | Always Hiring The Best",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "bootstrapped AI founder Australia"
+    ]
+  },
+  {
+    "name": "Valeria Davidov • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/valeriadavidoff/",
+    "current_title": "Founder of \"Amazing Anti Aging\" Australia",
+    "city": "Greater Brisbane Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "NLP founder Australia"
+    ]
+  },
+  {
     "name": "VENKATESH KANDULA",
     "linkedin_url": "https://www.linkedin.com/in/venkatesh-kandula-75514316b/",
     "current_title": "Founder of Tradies Ai Australia",
@@ -2330,6 +6261,36 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI founder Australia"
+    ]
+  },
+  {
+    "name": "Vickie Chang • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/vikizhang/",
+    "current_title": "Tech Founder",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth mode founder Sydney"
+    ]
+  },
+  {
+    "name": "Victoria Lai • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/thevictorialai/",
+    "current_title": "Founder of FashHack Australia. Growth & Product.",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "building in stealth founder Australia",
+      "software founder Australia",
+      "computer vision founder Australia"
     ]
   },
   {
@@ -2346,6 +6307,20 @@
     ]
   },
   {
+    "name": "Vincent Antonio • 3rd+",
+    "linkedin_url": "https://www.linkedin.com/in/vincent-antonio-702578144/",
+    "current_title": "Founder at Liken Australia",
+    "city": "Blacktown, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
     "name": "Visakhan Vythilingam",
     "linkedin_url": "https://www.linkedin.com/in/visakhan-vythilingam/",
     "current_title": "Senior Sustainability Consultant | 🌿 Founder of Greenfluence | Systems Thinking",
@@ -2355,7 +6330,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "climate tech founder Australia"
+      "climate tech founder Australia",
+      "building in stealth founder Australia"
     ]
   },
   {
@@ -2368,7 +6344,56 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI startup founder Sydney"
+      "AI startup founder Sydney",
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "bootstrapped AI founder Australia",
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Vivid N.",
+    "linkedin_url": "https://www.linkedin.com/in/vnsavitri/",
+    "current_title": "Founder - Stealth Startup at",
+    "city": "Greater Sydney Area",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "founder stealth startup Sydney"
+    ]
+  },
+  {
+    "name": "Volodymyr Katanskyi",
+    "linkedin_url": "https://www.linkedin.com/in/katansky/",
+    "current_title": "Founder & CTO. Building AI companies - StartupCraft, Worklair, SangraMate, BUCOF, AutoRhythm",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia"
+    ]
+  },
+  {
+    "name": "Weijie Mak • 2nd",
+    "linkedin_url": "https://www.linkedin.com/in/weijie-mak-1016b4107/",
+    "current_title": "Co-founder, CCO @ Stealth Start-up | Ex-Head of Australia, Aurora Energy Research | Energy & Power Markets",
+    "city": "Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth startup founder Australia"
     ]
   },
   {
@@ -2381,7 +6406,53 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "generative AI founder Australia"
+      "generative AI founder Australia",
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "YESENIA CUETO",
+    "linkedin_url": "https://www.linkedin.com/in/yesenia-cueto-526105336/",
+    "current_title": "Founder at Yesse Skincare Australia",
+    "city": "Sydney, New South Wales, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "computer vision founder Australia"
+    ]
+  },
+  {
+    "name": "Yifei Wang",
+    "linkedin_url": "https://www.linkedin.com/in/yifeiwang110/",
+    "current_title": "Founder & CEO, AIBUILD | Applied AI Commercialisation Platform & Venture Builder | Multi-million Revenue · 30+ Team · 10+ AI Ventures with University, Government & Industry Partners",
+    "city": "Carlton, Victoria, Australia",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": true,
+    "discovery_tier": "Discovery Candidate",
+    "stealth_signal": false,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "AI entrepreneur Australia founder"
+    ]
+  },
+  {
+    "name": "Yuichiro Nakahira",
+    "linkedin_url": "https://www.linkedin.com/in/ichi-n/",
+    "current_title": "CEO @ Stealth | Co-founder @ Pllum | Investor | Harvard University 🇺🇸 | Japanese Government-Sponsored Scholar 🇯🇵 | Based in the US 🇺🇸, Australia 🇦🇺, Greece 🇬🇷 & Japan 🇯🇵",
+    "city": "Japan",
+    "is_current_founder": 1,
+    "ai_or_tech_signal": false,
+    "discovery_tier": "Stealth Candidate",
+    "stealth_signal": true,
+    "source_type": "LinkedIn people search",
+    "source_queries": [
+      "stealth founder Australia",
+      "stealth startup founder Australia",
+      "AI stealth founder Australia",
+      "stealth AI cofounder Australia"
     ]
   },
   {
@@ -2394,7 +6465,8 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "fintech AI founder Australia"
+      "fintech AI founder Australia",
+      "NLP founder Australia"
     ]
   },
   {
@@ -2407,7 +6479,9 @@
     "discovery_tier": "Discovery Candidate",
     "source_type": "LinkedIn people search",
     "source_queries": [
-      "AI founder Australia"
+      "AI founder Australia",
+      "AI cofounder Australia",
+      "software founder Australia"
     ]
   },
   {
@@ -2421,7 +6495,8 @@
     "source_type": "LinkedIn people search",
     "source_queries": [
       "AI startup founder Sydney",
-      "AI startup founder Melbourne"
+      "AI startup founder Melbourne",
+      "applied AI founder Australia"
     ]
   }
 ]

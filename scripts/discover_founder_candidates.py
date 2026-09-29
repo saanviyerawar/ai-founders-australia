@@ -17,6 +17,13 @@ PROFILE_DIR = ROOT / "linkedin-scraper" / ".chrome-profile"
 OUTPUT = ROOT / "data" / "discovered_founders.json"
 
 DEFAULT_QUERIES = [
+    "stealth founder Australia",
+    "building in stealth founder Australia",
+    "stealth startup founder Australia",
+    "AI stealth founder Australia",
+    "stealth mode founder Sydney",
+    "stealth mode founder Melbourne",
+    "bootstrapped AI founder Australia",
     "AI founder Australia",
     "artificial intelligence founder Australia",
     "machine learning founder Australia",
@@ -53,6 +60,10 @@ AI_PATTERN = re.compile(
     r"robotics|deep tech|data|SaaS|cyber|fintech|healthtech|climate tech)\b",
     re.IGNORECASE,
 )
+STEALTH_PATTERN = re.compile(
+    r"\b(?:stealth|stealth mode|building quietly|unannounced)\b",
+    re.IGNORECASE,
+)
 
 
 def parse_args():
@@ -60,7 +71,14 @@ def parse_args():
         description="Collect public Australian founder discovery candidates."
     )
     parser.add_argument("--pages", type=int, default=3)
+    parser.add_argument("--start-page", type=int, default=1)
     parser.add_argument("--target", type=int, default=250)
+    parser.add_argument(
+        "--query",
+        action="append",
+        dest="queries",
+        help="Custom search query; repeat to supply multiple queries",
+    )
     parser.add_argument("--output", type=Path, default=OUTPUT)
     parser.add_argument("--visible", action="store_true")
     return parser.parse_args()
@@ -93,6 +111,7 @@ def parse_card(card):
     if not FOUNDER_PATTERN.search(headline) or not AUSTRALIA_PATTERN.search(combined):
         return None
 
+    stealth_signal = bool(STEALTH_PATTERN.search(headline))
     return {
         "name": name,
         "linkedin_url": card["url"],
@@ -100,7 +119,10 @@ def parse_card(card):
         "city": location or None,
         "is_current_founder": 1,
         "ai_or_tech_signal": bool(AI_PATTERN.search(combined)),
-        "discovery_tier": "Discovery Candidate",
+        "discovery_tier": (
+            "Stealth Candidate" if stealth_signal else "Discovery Candidate"
+        ),
+        "stealth_signal": stealth_signal,
         "source_type": "LinkedIn people search",
     }
 
@@ -145,6 +167,8 @@ def main():
     args = parse_args()
     if args.pages < 1 or args.pages > 10:
         raise SystemExit("--pages must be between 1 and 10")
+    if args.start_page < 1 or args.start_page > args.pages:
+        raise SystemExit("--start-page must be between 1 and --pages")
     if args.target < 1:
         raise SystemExit("--target must be positive")
 
@@ -162,8 +186,8 @@ def main():
             lambda browser: browser.get_cookie("li_at") is not None
         )
 
-        for query in DEFAULT_QUERIES:
-            for page in range(1, args.pages + 1):
+        for query in args.queries or DEFAULT_QUERIES:
+            for page in range(args.start_page, args.pages + 1):
                 try:
                     cards = collect_page(driver, query, page)
                 except (

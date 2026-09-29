@@ -146,6 +146,8 @@ def tags_for(profile):
         tags.append("Stealth/Early Founder")
     if profile.get("discovery_tier") == "Discovery Candidate":
         tags.append("Discovery Candidate")
+    if profile.get("discovery_tier") == "Stealth Candidate":
+        tags.extend(["Discovery Candidate", "Stealth Candidate"])
     if profile.get("ai_or_tech_signal"):
         tags.append("AI/Tech Candidate")
     return tags
@@ -261,7 +263,7 @@ def main():
             profile["linkedin_url"] = f"{url}/"
             profile["id"] = len(profiles) + 1
             profile["tags"] = tags_for(profile)
-            profile["cohorts"] = ["Discovery Candidate"]
+            profile["cohorts"] = [profile["discovery_tier"]]
             profiles.append(profile)
             existing_urls.add(url)
 

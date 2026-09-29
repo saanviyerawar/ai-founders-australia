@@ -8,6 +8,7 @@ export default function FounderCard({ founder }) {
     if (tag === 'Emerging Founder') return 'bg-success';
     if (tag === 'Stealth/Early Founder') return 'bg-dark';
     if (tag === 'Discovery Candidate') return 'bg-light text-dark border';
+    if (tag === 'Stealth Candidate') return 'bg-dark';
     if (tag === 'AI/Tech Candidate') return 'bg-info text-dark';
     if (tag === 'AI Founder') return 'bg-primary';
     if (tag === 'Tech Founder') return 'bg-info text-dark';

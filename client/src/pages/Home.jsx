@@ -7,7 +7,7 @@ export default function Home() {
                 <div className="row justify-content-center">
                     <div className="col-md-6 text-center">
                         <h1 className="display-4 text-center">Discover Australia's Hidden AI & Tech Founders</h1>
-                        <p className="lead text-center">Explore more than 200 strict hidden, emerging, stealth/early, and newly discovered founder candidates across Australia.</p>
+                        <p className="lead text-center">Explore more than 500 strict hidden, emerging, stealth/early, and newly discovered founder candidates across Australia, with stealth signals prioritized.</p>
                         <p className="mb-4 text-center">Verified cohorts use follower, tenure, founder-role, AI-product, funding, and stealth signals. Newly sourced profiles are labeled Discovery Candidate until those signals are verified.</p>
                         <div className="d-grid gap-2 d-md-flex justify-content-center">
                             <Link to="/search" className="btn btn-primary btn-lg px-4 me-md-2">Start Searching</Link>
@@ -88,9 +88,9 @@ export default function Home() {
                     <div className="col-md-3">
                         <div className="card category-card mb-4">
                             <div className="card-body">
-                                <h3 className="h5">Discovery Candidates</h3>
-                                <p className="small">New Australian AI/tech founder leads awaiting deeper signal verification</p>
-                                <Link to="/search?tag=Discovery%20Candidate" className="stretched-link" aria-label="Search discovery candidates" />
+                                <h3 className="h5">Stealth Candidates</h3>
+                                <p className="small">Founder profiles whose public professional headline explicitly signals stealth or an unannounced venture</p>
+                                <Link to="/search?tag=Stealth%20Candidate" className="stretched-link" aria-label="Search stealth candidates" />
                             </div>
                         </div>
                     </div>
