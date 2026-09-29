@@ -74,9 +74,10 @@ The platform separates verified **Strict Hidden**, **Emerging**, and
 are not presented as verified hidden-founder claims until follower, tenure,
 funding, stealth, and founder-role evidence is available.
 
-The current hosted dataset contains over 1,000 profiles. It defaults to public-headline
-verified **Stealth Candidates**; broader discovery records remain clearly
-labeled until deeper visibility signals are verified.
+The current hosted dataset contains over 1,000 profiles and initially displays
+the full unfiltered directory. Public-headline verified **Stealth Candidates**
+and broader discovery records remain clearly labeled until deeper visibility
+signals are verified.
 
 **1. What technology did you use to build your solution?**
 We used a simple but powerful stack to move fast. The frontend was built with React, Vite.js, HTML, CSS, JavaScript, and Bootstrap for quick styling. For our backend, we use Python and Flask for the server and routing, with a MySQL database hosted on AWS RDS. The app is deployed on an AWS EC2 instance.

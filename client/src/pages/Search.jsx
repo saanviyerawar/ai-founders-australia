@@ -37,7 +37,7 @@ export default function Search() {
     const [tagsFilter, setTagsFilter] = useState(() => {
         if (requestedTag === 'all') return [];
         if (requestedTag) return [requestedTag];
-        return supportsLiveCollection ? [] : ['Stealth Candidate'];
+        return [];
     });
     const [currentPage, setCurrentPage] = useState(1);
     const [industryFilter, setIndustryFilter] = useState('');
